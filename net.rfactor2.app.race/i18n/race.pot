@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: race/partials/race.html:192
+msgid "Accept the latest"
+msgstr ""
+
+#: race/partials/race.html:155
+msgid "Active sessions"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:146
+msgid "All cars"
+msgstr ""
+
+#: race/controllers/SeriesSelectCtrl.js:65
+msgid "All series"
+msgstr ""
+
+#: race/controllers/TrackSelectCtrl.js:112
+msgid "All tracks"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:99
+msgid "Are you sure you want to exit joining the session?"
+msgstr ""
+
+#: race/partials/race.html:15
+msgid "Below you can find a list of your favorite multiplayer servers that are online. Click on a server to join it or click on more to see the full server list and to manage your favorites."
+msgstr ""
+
+#: race/partials/race.html:68
+msgid "Car selection"
+msgstr ""
+
+#: race/controllers/RaceCtrl.js:44
+#: race/partials/race.html:146
+msgid "Competition"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:161
+#: race/controllers/CarSelectCtrl.js:294
+msgid "Configuration"
+msgstr ""
+
+#: race/partials/confirm_selection.modal.html:1
+msgid "Confirm"
+msgstr ""
+
+#: race/controllers/ConfirmSelectionModalCtrl.js:32
+msgid "Confirm competition car selection and join session?"
+msgstr ""
+
+#: race/controllers/ConfirmSelectionModalCtrl.js:31
+msgid "Confirm competition car selection?"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:99
+msgid "Confirm exit"
+msgstr ""
+
+#: race/partials/confirm_selection.modal.html:1
+msgid "Confirm selection"
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:27
+msgid "Content needed"
+msgstr ""
+
+#: race/partials/race.html:58
+msgid "Current selection not available."
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:38
+msgid "Done"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:99
+msgid "Exit"
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:40
+msgid "Failed"
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:26
+#: race/components/sessionaction/partials/sessionaction.html:6
+msgid "Join"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:205
+#: race/controllers/SeriesSelectCtrl.js:17
+#: race/controllers/TrackSelectCtrl.js:150
+msgid "Loading series"
+msgstr ""
+
+#: race/partials/race.html:177
+#: race/partials/race.html:45
+msgid "More"
+msgstr ""
+
+#: race/controllers/RaceCtrl.js:42
+#: race/controllers/RaceCtrl.js:47
+#: race/partials/race.html:8
+msgid "Multiplayer"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:57
+msgid "No cars found for this series, please try selecting another series."
+msgstr ""
+
+#: race/partials/race.html:24
+msgid "No favorite servers found."
+msgstr ""
+
+#: race/partials/race.html:111
+msgid "No selected car found."
+msgstr ""
+
+#: race/partials/race.html:79
+msgid "No selected series found."
+msgstr ""
+
+#: race/partials/race.html:100
+msgid "No selected track found."
+msgstr ""
+
+#: race/components/activesessions/partials/activesessions.html:33
+msgid "No sessions that you can pre-join or join at the moment."
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:35
+msgid "No split"
+msgstr ""
+
+#: race/controllers/TrackSelectCtrl.js:20
+msgid "No tracks found for this series, please try selecting another series."
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:30
+msgid "Not registered, cannot join"
+msgstr ""
+
+#: race/partials/race.html:136
+msgid "Race"
+msgstr ""
+
+#: race/controllers/RaceCtrl.js:122
+msgid "Refresh favorites"
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:12
+msgid "Register"
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:2
+msgid "Registration starts later"
+msgstr ""
+
+#: race/controllers/SeriesSelectCtrl.js:59
+msgid "Series"
+msgstr ""
+
+#: race/partials/race.html:60
+msgid "Series selection"
+msgstr ""
+
+#: race/controllers/CarSelectCtrl.js:140
+#: race/controllers/TrackSelectCtrl.js:107
+msgid "Series:"
+msgstr ""
+
+#: race/partials/race.html:139
+msgid "Session Settings"
+msgstr ""
+
+#: race/partials/race.html:184
+msgid "Sign up"
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:14
+msgid "Sign up to register"
+msgstr ""
+
+#: race/controllers/RaceCtrl.js:43
+#: race/partials/race.html:56
+msgid "Single player"
+msgstr ""
+
+#: race/partials/race.html:10
+msgid "Steam is currently in offline mode. Please exit rFactor 2 and go online in Steam to access the full server list. Below you can still see your favourite servers that are online. You can also access the list of LAN servers by clicking the more button."
+msgstr ""
+
+#: race/partials/race.html:148
+msgid "Take part in online competitions"
+msgstr ""
+
+#: race/partials/race.html:150
+msgid "The competition system is offline right now."
+msgstr ""
+
+#: race/components/sessionaction/partials/sessionaction.html:39
+msgid "Too late"
+msgstr ""
+
+#: race/partials/race.html:64
+msgid "Track selection"
+msgstr ""
+
+#: race/partials/race.html:21
+msgid "Your favorite servers"
+msgstr ""

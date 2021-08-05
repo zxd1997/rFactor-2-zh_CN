@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: shop/controllers/PackagesCtrl.js:48
+msgid "Are you sure you want to delete {{package}}?"
+msgstr "是否确认删除{{package}}？"
+
+#: shop/components/packagesummary/partials/packagesummary.html:11
+msgid "Category:"
+msgstr "类别："
+
+#: shop/controllers/PackagesCtrl.js:47 shop/partials/packages/card.html:28
+msgid "Delete"
+msgstr "删除"
+
+#: shop/controllers/PackagesCtrl.js:46
+msgid "Delete package"
+msgstr "删除安装包"
+
+#: shop/partials/packages/card.html:9
+msgid "Install"
+msgstr "安装"
+
+#: shop/components/packagesummary/partials/packagesummary.html:19
+msgid "Installed:"
+msgstr "已安装："
+
+#: shop/components/packagesummary/partials/packagesummary.html:15
+msgid "Item type:"
+msgstr "项目类型："
+
+#: shop/controllers/PackagesCtrl.js:149
+msgid "Loading packages..."
+msgstr "载入模组包中。。。"
+
+#: shop/controllers/PackagesCtrl.js:125
+msgid "Packages"
+msgstr "模组包"
+
+#: shop/partials/packages/card.html:22
+msgid "Refresh"
+msgstr "刷新"
+
+#: shop/controllers/ShopCtrl.js:12 shop/partials/shop.html:8
+msgid "Shop"
+msgstr "商店"
+
+#: shop/partials/packages/card.html:2
+msgid "Summary"
+msgstr "概要"
+
+#: shop/components/packagesummary/partials/packagesummary.html:7
+msgid "Type:"
+msgstr "类型："
+
+#: shop/partials/packages/card.html:15
+msgid "Uninstall"
+msgstr "卸载"
+
+#: shop/components/packagesummary/partials/packagesummary.html:23
+msgid "Usage:"
+msgstr "被该项目使用："
+
+#: shop/components/packagesummary/partials/packagesummary.html:3
+msgid "Version:"
+msgstr "版本："
+
+#: shop/controllers/PackagesCtrl.js:90
+msgid "category"
+msgstr "类别"
+
+#: shop/controllers/PackagesCtrl.js:93
+msgid "installed"
+msgstr "已安装"
+
+#: shop/controllers/PackagesCtrl.js:91
+msgid "item type"
+msgstr "项目类型"
+
+#: shop/controllers/PackagesCtrl.js:87
+msgid "name"
+msgstr "名称"
+
+#: shop/controllers/PackagesCtrl.js:89
+msgid "type"
+msgstr "类型"
+
+#: shop/controllers/PackagesCtrl.js:88
+msgid "version"
+msgstr "版本"

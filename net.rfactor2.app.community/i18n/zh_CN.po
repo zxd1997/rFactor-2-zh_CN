@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: community/controllers/CommunityCtrl.js:18
+#: community/partials/community.html:7
+msgid "Chat"
+msgstr "聊天"
+
+#: community/controllers/CommunityCtrl.js:13
+#: community/partials/community.html:16
+msgid "Forum"
+msgstr "论坛"
+
+#: community/controllers/CommunityCtrl.js:16
+#: community/partials/community.html:13
+msgid "Friends"
+msgstr "好友"
+
+#: community/partials/panel.forum.html:2
+msgid "Latest posts"
+msgstr "最新帖子"
+
+#: community/partials/panel.forum.html:28
+msgid "Loading forum threads..."
+msgstr "载入论坛帖子中。。。"
+
+#: community/partials/panel.forum.html:36
+msgid "More"
+msgstr "更多"
+
+#: community/partials/panel.forum.html:29
+msgid "No forum threads available."
+msgstr "暂无论坛帖子。"
+
+#: community/controllers/CommunityCtrl.js:17
+#: community/partials/community.html:10
+msgid "Social media"
+msgstr "社交媒体"
+
+#: community/partials/panel.forum.html:1
+msgid "Studio-397 Forum"
+msgstr "Studio-397 论坛"

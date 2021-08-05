@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: watch/controllers/WatchCtrl.js:28
+#: watch/partials/watch.html:11
+msgid "Broadcasts"
+msgstr ""
+
+#: watch/controllers/ReplaySelectCtrl.js:61
+#: watch/partials/delete.html:1
+#: watch/partials/delete.html:10
+msgid "Delete"
+msgstr ""
+
+#: watch/partials/delete.html:1
+msgid "Delete Replay"
+msgstr ""
+
+#: watch/partials/rename.html:9
+msgid "Enter new name"
+msgstr ""
+
+#: watch/controllers/RenameCtrl.js:29
+msgid "File exists"
+msgstr ""
+
+#: watch/partials/panel.replays.html:2
+msgid "Latest activity"
+msgstr ""
+
+#: watch/controllers/WatchCtrl.js:29
+#: watch/partials/watch.html:14
+msgid "Live timing"
+msgstr ""
+
+#: watch/partials/panel.replays.html:24
+msgid "More"
+msgstr ""
+
+#: watch/partials/panel.replays.html:1
+msgid "Recorded races"
+msgstr ""
+
+#: watch/controllers/ReplaySelectCtrl.js:62
+msgid "Rename"
+msgstr ""
+
+#: watch/partials/rename.html:1
+msgid "Rename Replay"
+msgstr ""
+
+#: watch/controllers/ReplaySelectCtrl.js:49
+#: watch/controllers/ReplaySelectCtrl.js:55
+#: watch/controllers/WatchCtrl.js:24
+#: watch/partials/watch.html:7
+msgid "Replays"
+msgstr ""
+
+#: watch/partials/rename.html:1
+msgid "Save"
+msgstr ""
+
+#: watch/controllers/RenameCtrl.js:32
+msgid "Unable to rename"
+msgstr ""
+
+#: watch/controllers/ReplaySelectCtrl.js:54
+#: watch/controllers/ReplaySelectCtrl.js:60
+msgid "Watch"
+msgstr ""

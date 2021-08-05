@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: framework/components/workshop/partials/modal.restart_game.html:2
+msgid ""
+"A restart of the game is required to make the updated content available. "
+"Click 'restart' to restart the game, or 'cancel' to ignore the content "
+"changes for now."
+msgstr ""
+"需要重启游戏来使更新的内容可用。点击“重启”来重启游戏，或者“取消”来暂时忽略"
+"内容变化。"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:52
+msgid "AI drivers:"
+msgstr "AI车手："
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:34
+msgid "Add AI"
+msgstr "添加AI"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:50
+msgid "Add penalty"
+msgstr "添加处罚"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:53
+msgid "Adding AI..."
+msgstr "添加AI中。。。"
+
+#: framework/components/notification/Notification.js:26
+msgid "Alerts"
+msgstr "提醒"
+
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:121
+msgid "All"
+msgstr "全部"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:117
+msgid "Are you sure you want to shut down the server and exit the event?"
+msgstr "确定要关闭服务器并且退出赛事么？"
+
+#: framework/services/ConfirmationService.js:16
+msgid "Are you sure?"
+msgstr "你确定么？"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:30
+msgid "Boot"
+msgstr "踢出"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:63
+msgid "Booting AI..."
+msgstr "踢出AI中。。。"
+
+#: framework/components/modal/Modal.js:89
+#: framework/components/workshop/partials/modal.store_purchase.html:22
+msgid "Cancel"
+msgstr "取消"
+
+#: framework/components/notification/Notification.js:32
+msgid "Chat"
+msgstr "聊天"
+
+#: framework/components/workshop/partials/modal.store_purchase.html:19
+msgid "Checkout"
+msgstr "结账"
+
+#: framework/components/notification/partials/notification.sidebar.html:46
+msgid "Clear all"
+msgstr "清除全部"
+
+#: framework/modals/multiplayeradmin/components/session/partials/session.html:11
+msgid "Clear yellow"
+msgstr "清除黄旗"
+
+#: framework/components/camera/Camera.js:31
+#: framework/components/fullscreen/partials/fullscreen.html:90
+msgid "Cockpit"
+msgstr "座舱"
+
+#: framework/components/topbar/TopBar.js:49
+msgid "Community"
+msgstr "社区"
+
+#: framework/services/ConfirmationService.js:16
+msgid "Confirm action"
+msgstr "确认操作"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:116
+msgid "Confirm server shutdown"
+msgstr "确认关闭服务器"
+
+#: framework/modals/credits/credits.modal.html:5
+msgid "Credits"
+msgstr "鸣谢"
+
+#: framework/modals/multiplayeradmin/MultiplayerAdminModalCtrl.js:17
+msgid "Current session"
+msgstr "当前比赛节"
+
+#: framework/components/card/partials/card.html:85
+msgid "Customize"
+msgstr "自定义"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:86
+msgid "Disqualify"
+msgstr "取消资格"
+
+#: framework/components/workshop/partials/modal.workshop_info.html:17
+msgid "Downloading"
+msgstr "下载中"
+
+#: framework/modals/serverpackagestatus/modal.serverpackagestatus.html:7
+msgid "Downloading and installing content that is needed to join the server."
+msgstr "下载并安装服务器所需的内容中。"
+
+#: framework/modals/serverpackagestatus/ServerPackageStatusModalCtrl.js:34
+msgid "Downloading item..."
+msgstr "下载项目中。。。"
+
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:111
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:119
+msgid "Drive-through"
+msgstr "通过维修区"
+
+#: framework/modals/multiplayeradmin/MultiplayerAdminModalCtrl.js:24
+msgid "Drivers"
+msgstr "车手"
+
+#: framework/modals/realroad/realroad.modal.html:7
+msgid "Enter RealRoad filename"
+msgstr "输入RealRoad文件名"
+
+#: framework/modals/serverpassword/modal.server_password.html:7
+msgid "Enter server password:"
+msgstr "输入服务器密码："
+
+#: framework/services/ReplayLoadingService.js:42
+msgid "Event or replay has already been loaded."
+msgstr "赛事或回放已经加载。"
+
+#: framework/modals/credits/credits.modal.html:5
+msgid "Exit game"
+msgstr "退出游戏"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:43
+msgid "Failed installing package"
+msgstr "安装包失败"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:44
+msgid "Failed uninstalling package"
+msgstr "卸载包失败"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:45
+msgid "Failed verifying package"
+msgstr "验证包失败"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:9
+msgid "Finish session"
+msgstr "结束比赛节"
+
+#: framework/modals/serverpackagestatus/ServerPackageStatusModalCtrl.js:40
+msgid "Finishing installing content..."
+msgstr "完成安装内容中。。。"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:27
+msgid "Finishing session..."
+msgstr "结束比赛节中。。。"
+
+#: framework/modals/noopponents/NoOpponentsModalCtrl.js:13
+msgid "Go to opponents"
+msgstr "跳转到对手"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:30
+msgid "Going to next session..."
+msgstr "跳转下一比赛节中。。。"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:40
+msgid "Going to next track..."
+msgstr "跳转下一条赛道中。。。"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:39
+msgid "Idle"
+msgstr "闲置"
+
+#: framework/modals/serverpassword/ServerPasswordModalCtrl.js:20
+msgid "Incorrect password."
+msgstr "密码不正确。"
+
+#: framework/modals/serverpackagestatus/modal.serverpackagestatus.html:1
+msgid "Installing content"
+msgstr "安装内容中"
+
+#: framework/modals/serverpackagestatus/ServerPackageStatusModalCtrl.js:37
+msgid "Installing item..."
+msgstr "安装项目中。。。"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:40
+msgid "Installing package..."
+msgstr "安装模组包中。。。"
+
+#: framework/services/ReplayLoadingService.js:39
+msgid "Invalid file name."
+msgstr "文件名无效。"
+
+#: framework/services/ReplayLoadingService.js:45
+msgid "Item ID is invalid."
+msgstr "项目ID无效。"
+
+#: framework/components/workshop/partials/modal.workshop_info.html:11
+msgid "Items remaining:"
+msgstr "剩余项目："
+
+#: framework/services/MultiplayerJoinService.js:27
+msgid "Joining server..."
+msgstr "加入服务器中。。。"
+
+#: framework/components/workshop/partials/modal.store_purchase.html:9
+msgid ""
+"Joining this competition requires items from the store that you do not own "
+"yet."
+msgstr "加入这一比赛需要你尚未拥有的商店项目。"
+
+#: framework/components/alphabet/partials/alphabet.html:2
+msgid "Jump to:"
+msgstr "跳转到："
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:25
+msgid "Laps"
+msgstr "圈数"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:27
+msgid "Laps & minutes"
+msgstr "圈数以及时间"
+
+#: framework/services/ReplayLoadingService.js:48
+msgid "List is invalid."
+msgstr "列表无效。"
+
+#: framework/components/fullscreen/FullScreen.js:161
+msgid "Live"
+msgstr "直播"
+
+#: framework/services/ReplayLoadingService.js:24
+msgid "Loading replay, please wait."
+msgstr "载入回放中，请稍候。"
+
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:110
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:118
+msgid "Longest line"
+msgstr "回到最后一名"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:26
+msgid "Minutes"
+msgstr "分钟"
+
+#: framework/services/ReplayLoadingService.js:36
+msgid "Mod is currently not installed."
+msgstr "Mod当前未安装。"
+
+#: framework/components/profile/Profile.js:29
+msgid "Name cannot be empty."
+msgstr "姓名不能为空。"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:15
+msgid "Next session"
+msgstr "下一比赛节"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:27
+msgid "Next track"
+msgstr "下一条赛道"
+
+#: framework/components/profile/Profile.js:32
+msgid "Nickname cannot be empty."
+msgstr "昵称不能为空。"
+
+#: framework/modals/noopponents/modal.no_opponents.html:1
+#: framework/services/StartRaceService.js:28
+msgid "No opponents selected"
+msgstr "没有选择对手"
+
+#: framework/services/ReplayLoadingService.js:51
+msgid "No scenes found."
+msgstr "没有找到场景。"
+
+#: framework/services/ReplayLoadingService.js:54
+msgid "No vehicles found."
+msgstr "没有找到车辆。"
+
+#: framework/components/camera/Camera.js:32
+#: framework/components/fullscreen/partials/fullscreen.html:91
+msgid "Nosecam"
+msgstr "车头"
+
+#: framework/components/topbar/partials/topbar.html:51
+msgid "Notifications"
+msgstr "通知"
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:59
+msgid "Number of drivers"
+msgstr "车手数量"
+
+#: framework/modals/serverpackagestatus/modal.serverpackagestatus.html:12
+msgid "Number of items left to download:"
+msgstr "还需要下载的项目个数："
+
+#: framework/components/camera/Camera.js:36
+#: framework/components/fullscreen/partials/fullscreen.html:94
+msgid "Onboard"
+msgstr "车载"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:28
+msgid "Only available in warmup."
+msgstr "只在热身节可用。"
+
+#: framework/components/topbar/partials/topbar.html:44
+msgid "Options"
+msgstr "选项"
+
+#: framework/components/workshop/partials/modal.package_info.html:7
+msgid "Packages remaining:"
+msgstr "模组包剩余："
+
+#: framework/modals/multiplayeradmin/MultiplayerAdminModalCtrl.js:25
+msgid "Penalize, disqualify..."
+msgstr "处罚，取消资格等。。。"
+
+#: framework/components/topbar/partials/topbar.html:37
+msgid "Player"
+msgstr "玩家"
+
+#: framework/modals/serverpassword/ServerPasswordModalCtrl.js:100
+msgid "Please enter a valid password."
+msgstr "请输入有效的密码。"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:3
+msgid "Please select a driver:"
+msgstr "请选择一个车手："
+
+#: framework/modals/noopponents/modal.no_opponents.html:7
+msgid "Please select at least one opponent from the opponents list."
+msgstr "请在对手列表中选择至少一个对手。"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:25
+msgid "Please wait..."
+msgstr "请稍后。。。"
+
+#: framework/components/topbar/TopBar.js:47
+msgid "Race"
+msgstr "比赛"
+
+#: framework/components/notification/Notification.js:29
+msgid "Race Control"
+msgstr "比赛控制"
+
+#: framework/modals/serverpassword/modal.server_password.html:16
+msgid "Remember password"
+msgstr "记住密码"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:95
+msgid "Remove DQ"
+msgstr "清除DQ"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:71
+msgid "Remove penalty"
+msgstr "清除处罚"
+
+#: framework/components/workshop/partials/modal.restart_game.html:1
+msgid "Restart"
+msgstr "重启"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:21
+msgid "Restart race"
+msgstr "重启正赛"
+
+#: framework/components/workshop/partials/modal.restart_game.html:1
+msgid "Restart required"
+msgstr "需要重启"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:24
+msgid "Restart weekend"
+msgstr "重启周末"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:34
+msgid "Restarting race..."
+msgstr "正在重启比赛。。。"
+
+#: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:37
+msgid "Restarting weekend..."
+msgstr "正在重启周末。。。"
+
+#: framework/modals/realroad/realroad.modal.html:1
+msgid "Save"
+msgstr "保存"
+
+#: framework/modals/realroad/realroad.modal.html:1
+msgid "Save RealRoad"
+msgstr "保存RealRoad"
+
+#: framework/components/card/partials/card.html:78
+msgid "Select"
+msgstr "选择"
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:16
+msgid "Session"
+msgstr "比赛节"
+
+#: framework/modals/singleplayeradmin/singleplayeradmin.modal.html:1
+msgid "Session controls"
+msgstr "比赛节控制"
+
+#: framework/modals/multiplayeradmin/components/session/partials/session.html:19
+msgid "Set next race length"
+msgstr "设置下一场比赛长度"
+
+#: framework/components/notification/partials/notification.sidebar.html:49
+msgid "Settings"
+msgstr "设置"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:118
+msgid "Shut down"
+msgstr "关闭"
+
+#: framework/modals/multiplayeradmin/components/session/partials/session.html:34
+msgid "Shut down server"
+msgstr "关闭服务器"
+
+#: framework/services/UtilService.js:165
+msgid "Single player event"
+msgstr "单人游戏赛事"
+
+#: framework/components/workshop/partials/modal.workshop_info.html:31
+msgid "Skip updates"
+msgstr "跳过更新"
+
+#: framework/components/thumbnailsorter/partials/thumbnailsorter.html:2
+msgid "Sort by"
+msgstr "排序方式"
+
+#: framework/components/camera/Camera.js:35
+#: framework/components/fullscreen/partials/fullscreen.html:95
+msgid "Spectator"
+msgstr "观众"
+
+#: framework/components/topbar/partials/topbar.html:22
+msgid "Steam offline mode"
+msgstr "Steam离线模式"
+
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:113
+#: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:120
+msgid "Stop & go"
+msgstr "进站罚停"
+
+#: framework/components/settingview/partials/settingview.html:12
+msgid "Summary"
+msgstr "概要"
+
+#: framework/modals/multiplayeradmin/partials/summary.html:1
+msgid "Summary panel"
+msgstr "概要面板"
+
+#: framework/components/camera/Camera.js:33
+#: framework/components/fullscreen/partials/fullscreen.html:92
+msgid "Swingman"
+msgstr "尾追"
+
+#: framework/components/camera/Camera.js:30
+#: framework/components/fullscreen/partials/fullscreen.html:89
+msgid "TV"
+msgstr ""
+
+#: framework/components/fullscreen/FullScreen.js:158
+msgid "Tape delay"
+msgstr "回放延迟"
+
+#: framework/modals/multiplayeradmin/components/session/partials/session.html:4
+msgid "Throw yellow"
+msgstr "触发黄旗"
+
+#: framework/modals/multiplayeradmin/MultiplayerAdminModalCtrl.js:18
+msgid "Throw yellow, change race length..."
+msgstr "触发黄旗，改变比赛长度等。"
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:4
+msgid "Track"
+msgstr "赛道"
+
+#: framework/components/camera/Camera.js:34
+#: framework/components/fullscreen/partials/fullscreen.html:93
+msgid "Trackside"
+msgstr "赛道"
+
+#: framework/services/ReplayLoadingService.js:57
+msgid "Unable to load replay."
+msgstr "无法载入回放。"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:41
+msgid "Uninstalling package..."
+msgstr "卸载模组包中。。。"
+
+#: framework/components/card/partials/card.html:88
+msgid "Unsubscribe"
+msgstr "取消订阅"
+
+#: framework/components/workshop/partials/modal.package_info.html:1
+msgid "Updating packages"
+msgstr "更新模组包"
+
+#: framework/components/workshop/partials/modal.workshop_info.html:1
+msgid "Updating workshop items"
+msgstr "更新创意工坊项目"
+
+#: framework/components/workshop/controllers/PackageInfoModalCtrl.js:42
+msgid "Verifying package..."
+msgstr "验证安装包中。。。"
+
+#: framework/components/topbar/TopBar.js:48
+msgid "Watch"
+msgstr "观看"
+
+#: framework/components/workshop/partials/modal.store_purchase.html:12
+msgid ""
+"We have identified the cheapest way for you to acquire the missing items."
+msgstr "我们已经为你找到获得缺失物品的最便宜的方式。"
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:64
+msgid "Weather"
+msgstr "天气"
+
+#: framework/components/workshop/partials/modal.workshop_info.html:5
+msgid "Workshop sync in progress..."
+msgstr "创意工坊同步中。。。"
+
+#: framework/components/workshop/partials/modal.store_purchase.html:15
+msgid ""
+"Would you like to add the identified store items to your Steam checkout "
+"basket?"
+msgstr "你想要将这一商店物品加入你的Steam购物车么？"
+
+#: framework/services/ConfirmationService.js:16
+msgid "Yes"
+msgstr "是"
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:65
+msgid "ambient"
+msgstr "环境"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:40
+msgid "change completed laps"
+msgstr "改变已完成的圈数"
+
+#: framework/modals/noopponents/modal.no_opponents.html:1
+msgid "close"
+msgstr "关闭"
+
+#: framework/components/sessioninfotopbar/partials/sessioninfotopbar.html:22
+msgid "drivers"
+msgstr "车手"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:41
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:56
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:62
+msgid "laps"
+msgstr "圈"
+
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:45
+#: framework/modals/multiplayeradmin/components/session/MultiplayerAdminSession.js:59
+msgid "min"
+msgstr "分钟"
+
+#: framework/services/UtilService.js:117
+msgid "nd"
+msgstr ""
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:69
+msgid "rain"
+msgstr "雨"
+
+#: framework/services/UtilService.js:120
+msgid "rd"
+msgstr ""
+
+#: framework/components/listview/components/listviewsearch/partials/listviewsearch.html:6
+msgid "search"
+msgstr "搜索"
+
+#: framework/modals/multiplayeradmin/components/drivers/partials/drivers.html:20
+msgid "set grid position"
+msgstr "设置起跑位置"
+
+#: framework/services/UtilService.js:114
+msgid "st"
+msgstr ""
+
+#: framework/modals/serverpassword/modal.server_password.html:1
+msgid "submit"
+msgstr "提交"
+
+#: framework/services/UtilService.js:122
+msgid "th"
+msgstr ""
+
+#: framework/components/sessioninfo/partials/sessioninfo.html:67
+msgid "track"
+msgstr "赛道"
+
+#: framework/services/UtilService.js:193
+msgid "{{raceLapsInfo}} laps"
+msgstr "{{raceLapsInfo}}圈"
+
+#: framework/services/LocaleService.js:106
+msgid "{{trackLength}} km"
+msgstr "{{trackLength}}公里"
+
+#: framework/services/LocaleService.js:109
+msgid "{{trackLength}} miles"
+msgstr "{{trackLength}}英里"

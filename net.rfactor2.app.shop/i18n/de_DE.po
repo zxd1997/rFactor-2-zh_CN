@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: shop/controllers/PackagesCtrl.js:47
+msgid "Are you sure you want to delete {{package}}?"
+msgstr "Möchten Sie {{package}} wirklich löschen?"
+
+#: shop/components/packagesummary/partials/packagesummary.html:11
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: shop/controllers/PackagesCtrl.js:46 shop/partials/packages/card.html:28
+msgid "Delete"
+msgstr "Löschen"
+
+#: shop/controllers/PackagesCtrl.js:45
+msgid "Delete package"
+msgstr "Paket Löschen"
+
+#: shop/partials/packages/card.html:9
+msgid "Install"
+msgstr "Installieren"
+
+#: shop/components/packagesummary/partials/packagesummary.html:19
+msgid "Installed:"
+msgstr "Installiert:"
+
+#: shop/components/packagesummary/partials/packagesummary.html:15
+msgid "Item type:"
+msgstr "Artikeltyp:"
+
+#: shop/controllers/PackagesCtrl.js:131
+msgid "Packages"
+msgstr "Pakete"
+
+#: shop/partials/packages/card.html:22
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: shop/controllers/ShopCtrl.js:12 shop/partials/shop.html:8
+msgid "Shop"
+msgstr "Geschäft"
+
+#: shop/partials/packages/card.html:2
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: shop/components/packagesummary/partials/packagesummary.html:7
+msgid "Type:"
+msgstr "Die Sorte:"
+
+#: shop/partials/packages/card.html:15
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: shop/components/packagesummary/partials/packagesummary.html:23
+msgid "Usage:"
+msgstr "Verwendung:"
+
+#: shop/components/packagesummary/partials/packagesummary.html:3
+msgid "Version:"
+msgstr "Die Version:"
+
+#: shop/controllers/PackagesCtrl.js:90
+msgid "category"
+msgstr "die Kategorie"
+
+#: shop/controllers/PackagesCtrl.js:93
+msgid "installed"
+msgstr "Installiert"
+
+#: shop/controllers/PackagesCtrl.js:91
+msgid "item type"
+msgstr "Artikeltyp"
+
+#: shop/controllers/PackagesCtrl.js:87
+msgid "name"
+msgstr "der Name"
+
+#: shop/controllers/PackagesCtrl.js:89
+msgid "type"
+msgstr "die Sorte"
+
+#: shop/controllers/PackagesCtrl.js:88
+msgid "version"
+msgstr "die Version"
+
+#~ msgid "Workshop item:"
+#~ msgstr "Workshop Artikel:"
+
+#~ msgid "workshop"
+#~ msgstr "Workshop"

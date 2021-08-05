@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:130
+msgid "After finishing this wizard, you can change your controls in options by clicking the cog button in the top right corner of the main menu."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:112
+msgid "Are you using sequential or H-pattern shifter?"
+msgstr ""
+
+#: start/partials/panel.player.html:16
+msgid "Average finishing position"
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardCtrl.js:29
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:116
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:165
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:43
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:62
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:99
+msgid "Back"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:145
+msgid "Brake"
+msgstr ""
+
+#: start/partials/panel.watch.html:3
+msgid "Broadcasts"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:54
+msgid "Calibration finished."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:149
+msgid "Clutch"
+msgstr ""
+
+#: start/partials/panel.watch.html:7
+msgid "Coming soon..."
+msgstr ""
+
+#: start/controllers/StartCtrl.js:193
+#: start/partials/start.html:30
+msgid "Community"
+msgstr ""
+
+#: start/partials/panel.race.html:4
+msgid "Competitions"
+msgstr ""
+
+#: start/app.js:73
+msgid "Completed"
+msgstr ""
+
+#: start/app.js:68
+#: start/controllers/StartCtrl.js:194
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:1
+#: start/partials/start.html:43
+msgid "Content"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:57
+msgid "Content installation ready! Click the next button to continue."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:19
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:46
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:65
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:75
+msgid "Continue"
+msgstr ""
+
+#: start/app.js:62
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:1
+msgid "Controls"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:129
+msgid "Controls set-up completed!"
+msgstr ""
+
+#: start/partials/panel.race.html:52
+msgid "Current selection not available."
+msgstr ""
+
+#: start/partials/panel.player.html:8
+msgid "Current status"
+msgstr ""
+
+#: start/partials/panel.player.html:32
+#: start/partials/panel.race.html:58
+msgid "Customize"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:81
+msgid "Do you want to assign clutch?"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:95
+msgid "Do you want to use automatic shifting?"
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardCtrl.js:58
+msgid "Error completing wizard"
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardProfileCtrl.js:26
+msgid "Error saving player profile"
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardContentCtrl.js:115
+msgid "Error subscribing to content, please try again. If the problem persists, please try restarting Steam and rFactor 2."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:30
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:36
+msgid "Estimated max steering angle:"
+msgstr ""
+
+#: start/controllers/StartCtrl.js:74
+#: start/partials/firstlaunchwizard/firstlaunchwizard.html:10
+msgid "Exit game"
+msgstr ""
+
+#: start/partials/panel.news.html:2
+msgid "Featured"
+msgstr ""
+
+#: start/partials/panel.watch.html:6
+msgid "Featured this week"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_completed.html:12
+msgid "Finish"
+msgstr ""
+
+#: start/partials/panel.community.html:3
+msgid "Forum"
+msgstr ""
+
+#: start/partials/panel.community.html:2
+#: start/partials/panel.player.html:18
+#: start/partials/panel.player.html:5
+msgid "Friends"
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardContentCtrl.js:18
+msgid "Getting a list of selectable content, please wait."
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardControlsCtrl.js:148
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:122
+msgid "H-pattern"
+msgstr ""
+
+#: start/partials/panel.content.html:9
+msgid "In the item store you can buy add-on (DLC) content."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:45
+msgid "Install"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:52
+msgid "Installing content, please wait."
+msgstr ""
+
+#: start/partials/panel.content.html:19
+#: start/partials/panel.content.html:8
+msgid "Item store"
+msgstr ""
+
+#: start/partials/panel.race.html:7
+msgid "Last used configuration"
+msgstr ""
+
+#: start/partials/panel.community.html:6
+msgid "Latest activity"
+msgstr ""
+
+#: start/partials/panel.news.html:1
+msgid "Latest news from studio-397.com"
+msgstr ""
+
+#: start/partials/panel.player.html:12
+#: start/partials/panel.player.html:3
+msgid "License"
+msgstr ""
+
+#: start/partials/panel.watch.html:2
+msgid "Livestreams"
+msgstr ""
+
+#: start/partials/modal.load_replay.html:1
+msgid "Load"
+msgstr ""
+
+#: start/partials/modal.load_replay.html:1
+msgid "Load replay"
+msgstr ""
+
+#: start/partials/panel.community.html:29
+msgid "Loading forum threads..."
+msgstr ""
+
+#: start/partials/panel.news.html:21
+msgid "Loading news..."
+msgstr ""
+
+#: start/partials/panel.content.html:12
+msgid "Manually install, uninstall and delete packages."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:137
+msgid "Max steering angle"
+msgstr ""
+
+#: start/partials/panel.community.html:37
+#: start/partials/panel.news.html:27
+#: start/partials/panel.watch.html:26
+msgid "More"
+msgstr ""
+
+#: start/partials/panel.race.html:3
+msgid "Multiplayer"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:5
+msgid "Name"
+msgstr ""
+
+#: start/controllers/StartCtrl.js:190
+#: start/partials/start.html:8
+msgid "News"
+msgstr ""
+
+#: start/components/wizardnextstepbutton/WizardNextStepButton.js:23
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardCtrl.js:38
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:167
+msgid "Next"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:7
+msgid "Nickname"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:102
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:85
+msgid "No"
+msgstr ""
+
+#: start/partials/panel.community.html:30
+msgid "No forum threads available."
+msgstr ""
+
+#: start/partials/panel.news.html:22
+msgid "No news available."
+msgstr ""
+
+#: start/partials/modal.workshop_error.html:1
+msgid "Ok"
+msgstr ""
+
+#: start/partials/panel.player.html:19
+msgid "On Steam"
+msgstr ""
+
+#: start/partials/panel.content.html:11
+#: start/partials/panel.content.html:22
+msgid "Packages"
+msgstr ""
+
+#: start/partials/start.html:38
+msgid "Player"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:16
+msgid "Please center your wheel before continuing."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_welcome.html:4
+msgid "Please complete this first launch wizard to configure the game optimally for your system."
+msgstr ""
+
+#: start/partials/modal.workshop_error.html:6
+msgid "Please enable the Steam overlay in your Steam settings and restart rFactor 2. (Settings -> In-Game -> Enable the Steam overlay while in-game)"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:6
+msgid "Please make sure your controls are connected and calibrated correctly in Windows before starting the controls set-up."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:7
+msgid "Please select the collection you want to install and click the install button to start downloading and installing the content."
+msgstr ""
+
+#: start/app.js:56
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:1
+#: start/partials/panel.player.html:2
+msgid "Profile"
+msgstr ""
+
+#: start/partials/panel.player.html:6
+msgid "Purchases"
+msgstr ""
+
+#: start/controllers/StartCtrl.js:191
+#: start/partials/panel.player.html:29
+#: start/partials/panel.race.html:55
+#: start/partials/start.html:13
+msgid "Race"
+msgstr ""
+
+#: start/partials/panel.player.html:14
+msgid "Ranking points"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:72
+msgid "Release throttle before continuing."
+msgstr ""
+
+#: start/partials/panel.watch.html:13
+msgid "Replay"
+msgstr ""
+
+#: start/partials/panel.watch.html:4
+msgid "Replays"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:15
+msgid "Save profile"
+msgstr ""
+
+#: start/partials/panel.race.html:22
+msgid "Selected car N/A"
+msgstr ""
+
+#: start/partials/panel.race.html:15
+msgid "Selected series N/A"
+msgstr ""
+
+#: start/partials/panel.race.html:34
+msgid "Selected track N/A"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:119
+msgid "Sequential"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:153
+msgid "Shifting"
+msgstr ""
+
+#: start/partials/panel.race.html:2
+msgid "Single player"
+msgstr ""
+
+#: start/app.js:50
+msgid "Start"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:10
+msgid "Start controls set-up"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_welcome.html:10
+msgid "Start wizard"
+msgstr ""
+
+#: start/partials/panel.player.html:4
+msgid "Statistics"
+msgstr ""
+
+#: start/partials/panel.community.html:4
+msgid "Steam"
+msgstr ""
+
+#: start/partials/modal.workshop_error.html:1
+msgid "Steam overlay error"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:133
+msgid "Steering"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:7
+msgid "The first step is to assign your steering so please also make sure to center your wheel before starting."
+msgstr ""
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardControlsCtrl.js:208
+msgid "The maximum steering angle was set to {{finalMaxSteeringAngle}} degrees. You can change this later in options."
+msgstr ""
+
+#: start/partials/panel.content.html:6
+msgid "The workshop contains items you can subscribe to. The subscribed items will be installed automatically the next time you start rFactor 2."
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:141
+msgid "Throttle"
+msgstr ""
+
+#: start/controllers/StartCtrl.js:192
+#: start/partials/start.html:25
+msgid "Watch"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_welcome.html:1
+msgid "Welcome to rFactor 2"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_completed.html:1
+msgid "Wizard completed"
+msgstr ""
+
+#: start/partials/panel.content.html:16
+#: start/partials/panel.content.html:5
+msgid "Workshop"
+msgstr ""
+
+#: start/partials/panel.content.html:2
+msgid "Workshop items and item store add-ons"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:105
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:88
+msgid "Yes"
+msgstr ""
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_completed.html:4
+msgid "You have completed the first launch wizard. Click finish to start racing!"
+msgstr ""

@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:130
+msgid ""
+"After finishing this wizard, you can change your controls in options by "
+"clicking the cog button in the top right corner of the main menu."
+msgstr ""
+"在完成这一向导后，你可以通过点击主菜单右上角的齿轮按钮来进入设置来改变控制器"
+"设置。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:112
+msgid "Are you using sequential or H-pattern shifter?"
+msgstr "你在使用序列档还是H档？"
+
+#: start/partials/panel.player.html:16
+msgid "Average finishing position"
+msgstr "平均完赛成绩"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardCtrl.js:29
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:116
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:165
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:43
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:62
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:99
+msgid "Back"
+msgstr "返回"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:145
+msgid "Brake"
+msgstr "刹车"
+
+#: start/partials/panel.watch.html:3
+msgid "Broadcasts"
+msgstr "转播"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:54
+msgid "Calibration finished."
+msgstr "校准完成。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:149
+msgid "Clutch"
+msgstr "离合器"
+
+#: start/partials/panel.watch.html:7
+msgid "Coming soon..."
+msgstr "即将到来。。。"
+
+#: start/controllers/StartCtrl.js:193 start/partials/start.html:30
+msgid "Community"
+msgstr "社区"
+
+#: start/partials/panel.race.html:4
+msgid "Competitions"
+msgstr "比赛系统"
+
+#: start/app.js:73
+msgid "Completed"
+msgstr "已完成"
+
+#: start/app.js:68 start/controllers/StartCtrl.js:194
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:1
+#: start/partials/start.html:43
+msgid "Content"
+msgstr "内容"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:57
+msgid "Content installation ready! Click the next button to continue."
+msgstr "内容安装完成！点击下一步继续。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:19
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:46
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:65
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:75
+msgid "Continue"
+msgstr "继续"
+
+#: start/app.js:62
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:1
+msgid "Controls"
+msgstr "控制"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:129
+msgid "Controls set-up completed!"
+msgstr "控制器设置完成！"
+
+#: start/partials/panel.race.html:52
+msgid "Current selection not available."
+msgstr "当前选择不可用。"
+
+#: start/partials/panel.player.html:8
+msgid "Current status"
+msgstr "当前状态"
+
+#: start/partials/panel.player.html:32 start/partials/panel.race.html:58
+msgid "Customize"
+msgstr "自定义"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:81
+msgid "Do you want to assign clutch?"
+msgstr "你想要设置离合器么？"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:95
+msgid "Do you want to use automatic shifting?"
+msgstr "你想要使用自动档么？"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardCtrl.js:58
+msgid "Error completing wizard"
+msgstr "完成向导时发生错误"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardProfileCtrl.js:26
+msgid "Error saving player profile"
+msgstr "保存玩家资料时发生错误"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardContentCtrl.js:115
+msgid ""
+"Error subscribing to content, please try again. If the problem persists, "
+"please try restarting Steam and rFactor 2."
+msgstr ""
+"订阅内容时发生错误，请再次尝试。如果问题一直存在，请尝试重启Steam和rFactor 2."
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:30
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:36
+msgid "Estimated max steering angle:"
+msgstr "期望的最大转向角度："
+
+#: start/controllers/StartCtrl.js:74
+#: start/partials/firstlaunchwizard/firstlaunchwizard.html:10
+msgid "Exit game"
+msgstr "退出游戏"
+
+#: start/partials/panel.news.html:2
+msgid "Featured"
+msgstr "精选"
+
+#: start/partials/panel.watch.html:6
+msgid "Featured this week"
+msgstr "本周精选"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_completed.html:12
+msgid "Finish"
+msgstr "完成"
+
+#: start/partials/panel.community.html:3
+msgid "Forum"
+msgstr "论坛"
+
+#: start/partials/panel.community.html:2 start/partials/panel.player.html:18
+#: start/partials/panel.player.html:5
+msgid "Friends"
+msgstr "好友"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardContentCtrl.js:18
+msgid "Getting a list of selectable content, please wait."
+msgstr "获取可选内容列表中，请稍候。"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardControlsCtrl.js:148
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:122
+msgid "H-pattern"
+msgstr "H档"
+
+#: start/partials/panel.content.html:9
+msgid "In the item store you can buy add-on (DLC) content."
+msgstr "在物品商店你可以购买额外（DLC）内容。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:45
+msgid "Install"
+msgstr "安装"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:52
+msgid "Installing content, please wait."
+msgstr "正在安装内容，请稍候。"
+
+#: start/partials/panel.content.html:19 start/partials/panel.content.html:8
+msgid "Item store"
+msgstr "物品商店"
+
+#: start/partials/panel.race.html:7
+msgid "Last used configuration"
+msgstr "上次使用的配置"
+
+#: start/partials/panel.community.html:6
+msgid "Latest activity"
+msgstr "最近活动"
+
+#: start/partials/panel.news.html:1
+msgid "Latest news from studio-397.com"
+msgstr "studio-397.com上的最新新闻"
+
+#: start/partials/panel.player.html:12 start/partials/panel.player.html:3
+msgid "License"
+msgstr "许可证"
+
+#: start/partials/panel.watch.html:2
+msgid "Livestreams"
+msgstr "直播"
+
+#: start/partials/modal.load_replay.html:1
+msgid "Load"
+msgstr "载入"
+
+#: start/partials/modal.load_replay.html:1
+msgid "Load replay"
+msgstr "载入回放"
+
+#: start/partials/panel.community.html:29
+msgid "Loading forum threads..."
+msgstr "载入论坛帖子中。。。"
+
+#: start/partials/panel.news.html:21
+msgid "Loading news..."
+msgstr "载入新闻中。。。"
+
+#: start/partials/panel.content.html:12
+msgid "Manually install, uninstall and delete packages."
+msgstr "手动安装、卸载以及删除安装包。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:137
+msgid "Max steering angle"
+msgstr "最大转向角度"
+
+#: start/partials/panel.community.html:37 start/partials/panel.news.html:27
+#: start/partials/panel.watch.html:26
+msgid "More"
+msgstr "更多"
+
+#: start/partials/panel.race.html:3
+msgid "Multiplayer"
+msgstr "联机游戏"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:5
+msgid "Name"
+msgstr "姓名"
+
+#: start/controllers/StartCtrl.js:190 start/partials/start.html:8
+msgid "News"
+msgstr "新闻"
+
+#: start/components/wizardnextstepbutton/WizardNextStepButton.js:23
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardCtrl.js:38
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:167
+msgid "Next"
+msgstr "下一步"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:7
+msgid "Nickname"
+msgstr "昵称"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:102
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:85
+msgid "No"
+msgstr "否"
+
+#: start/partials/panel.community.html:30
+msgid "No forum threads available."
+msgstr "暂无论坛帖子。"
+
+#: start/partials/panel.news.html:22
+msgid "No news available."
+msgstr "暂无新闻。"
+
+#: start/partials/modal.workshop_error.html:1
+msgid "Ok"
+msgstr "好的"
+
+#: start/partials/panel.player.html:19
+msgid "On Steam"
+msgstr "在Steam上"
+
+#: start/partials/panel.content.html:11 start/partials/panel.content.html:22
+msgid "Packages"
+msgstr "模组包"
+
+#: start/partials/start.html:38
+msgid "Player"
+msgstr "玩家"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:16
+msgid "Please center your wheel before continuing."
+msgstr "请在继续下一步之前回中你的方向盘。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_welcome.html:4
+msgid ""
+"Please complete this first launch wizard to configure the game optimally for "
+"your system."
+msgstr "请完成首次启动向导来根据你的系统优化配置游戏。"
+
+#: start/partials/modal.workshop_error.html:6
+msgid ""
+"Please enable the Steam overlay in your Steam settings and restart rFactor "
+"2. (Settings -> In-Game -> Enable the Steam overlay while in-game)"
+msgstr ""
+"请在你的Steam设置中打开Steam界面（属性 -> 通用 -> 在游戏中启用Steam界面）并重"
+"启rFactor 2。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:6
+msgid ""
+"Please make sure your controls are connected and calibrated correctly in "
+"Windows before starting the controls set-up."
+msgstr ""
+"请在开始控制器设置之前，确保你的控制器已经连接好并且在Windows中正确校准。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_content.html:7
+msgid ""
+"Please select the collection you want to install and click the install "
+"button to start downloading and installing the content."
+msgstr "请选择你想要安装的集合并且点击安装按钮来开始下载并安装内容。"
+
+#: start/app.js:56
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:1
+#: start/partials/panel.player.html:2
+msgid "Profile"
+msgstr "个人资料"
+
+#: start/partials/panel.player.html:6
+msgid "Purchases"
+msgstr "购买"
+
+#: start/controllers/StartCtrl.js:191 start/partials/panel.player.html:29
+#: start/partials/panel.race.html:55 start/partials/start.html:13
+msgid "Race"
+msgstr "比赛"
+
+#: start/partials/panel.player.html:14
+msgid "Ranking points"
+msgstr "排行积分"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:72
+msgid "Release throttle before continuing."
+msgstr "松开油门以继续。"
+
+#: start/partials/panel.watch.html:13
+msgid "Replay"
+msgstr "回放"
+
+#: start/partials/panel.watch.html:4
+msgid "Replays"
+msgstr "回放"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_profile.html:15
+msgid "Save profile"
+msgstr "保存资料"
+
+#: start/partials/panel.race.html:22
+msgid "Selected car N/A"
+msgstr "未选择车辆"
+
+#: start/partials/panel.race.html:15
+msgid "Selected series N/A"
+msgstr "未选择系列赛"
+
+#: start/partials/panel.race.html:34
+msgid "Selected track N/A"
+msgstr "未选择赛道"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:119
+msgid "Sequential"
+msgstr "序列档"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:153
+msgid "Shifting"
+msgstr "换档"
+
+#: start/partials/panel.race.html:2
+msgid "Single player"
+msgstr "单人游戏"
+
+#: start/app.js:50
+msgid "Start"
+msgstr "开始"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:10
+msgid "Start controls set-up"
+msgstr "开始控制器设置"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_welcome.html:10
+msgid "Start wizard"
+msgstr "启动向导"
+
+#: start/partials/panel.player.html:4
+msgid "Statistics"
+msgstr "数据"
+
+#: start/partials/panel.community.html:4
+msgid "Steam"
+msgstr ""
+
+#: start/partials/modal.workshop_error.html:1
+msgid "Steam overlay error"
+msgstr "Steam游戏内界面错误"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:133
+msgid "Steering"
+msgstr "转向"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:7
+msgid ""
+"The first step is to assign your steering so please also make sure to center "
+"your wheel before starting."
+msgstr "第一步是设置你的方向盘，所以在开始前确保你的方向盘是回中的。"
+
+#: start/controllers/firstlaunchwizard/FirstLaunchWizardControlsCtrl.js:208
+msgid ""
+"The maximum steering angle was set to {{finalMaxSteeringAngle}} degrees. You "
+"can change this later in options."
+msgstr ""
+"最大转向角度已设置为{{finalMaxSteeringAngle}}度。你可以之后在选项中改变设置。"
+
+#: start/partials/panel.content.html:6
+msgid ""
+"The workshop contains items you can subscribe to. The subscribed items will "
+"be installed automatically the next time you start rFactor 2."
+msgstr ""
+"你可以在创意工坊订阅各种内容。订阅的项目将会在你下次启动rFactor 2时自动安装。"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:141
+msgid "Throttle"
+msgstr "油门"
+
+#: start/controllers/StartCtrl.js:192 start/partials/start.html:25
+msgid "Watch"
+msgstr "观看"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_welcome.html:1
+msgid "Welcome to rFactor 2"
+msgstr "欢迎来到rFactor 2"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_completed.html:1
+msgid "Wizard completed"
+msgstr "向导完成"
+
+#: start/partials/panel.content.html:16 start/partials/panel.content.html:5
+msgid "Workshop"
+msgstr "创意工坊"
+
+#: start/partials/panel.content.html:2
+msgid "Workshop items and item store add-ons"
+msgstr "创意工坊项目以及物品商店内容"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:105
+#: start/partials/firstlaunchwizard/firstlaunchwizard_controls.html:88
+msgid "Yes"
+msgstr "是"
+
+#: start/partials/firstlaunchwizard/firstlaunchwizard_completed.html:4
+msgid ""
+"You have completed the first launch wizard. Click finish to start racing!"
+msgstr "你已经完成首次启动向导。点击完成来开始比赛！"

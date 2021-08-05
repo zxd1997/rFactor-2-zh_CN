@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:11
+msgid "AI drivers"
+msgstr "AI车手"
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:8
+msgid "Add favorite"
+msgstr "添加收藏"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:29
+msgid "All"
+msgstr "全部"
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:16
+msgid "Back"
+msgstr "返回"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:26
+msgid "Description"
+msgstr "描述"
+
+#: multiplayer/partials/modal.mode_selection.html:9
+msgid "Drive"
+msgstr "驾驶"
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:17
+msgid "Exit game"
+msgstr "退出游戏"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:470
+msgid "Favorites"
+msgstr "收藏"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:28
+msgid "Filtered"
+msgstr "已过滤"
+
+#: multiplayer/components/filteroptions/partials/filteroptions.html:2
+msgid "Filters"
+msgstr "过滤器"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:475
+msgid "Friends"
+msgstr "好友"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:440
+msgid "Has players"
+msgstr "有玩家在线"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:442
+msgid "Has same version"
+msgstr "为相同版本"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:5
+msgid "Here you can find a list of available rFactor 2 servers."
+msgstr "在这里你可以看到所有可用rFactor 2的服务器列表。"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:461
+msgid "Internet"
+msgstr "互联网"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:441
+msgid "Is public"
+msgstr "公开服务器"
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:3
+msgid "Join"
+msgstr "加入"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:466
+msgid "LAN"
+msgstr "局域网"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:296
+msgid "Multiplayer"
+msgstr "联机游戏"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:33
+msgid "N/A"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:3
+msgid "Name"
+msgstr "名称"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:443
+msgid "No AI"
+msgstr "没有AI"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:424
+msgid "No servers found"
+msgstr "找不到服务器"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:439
+msgid "Not full"
+msgstr "服务器未满"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:23
+msgid "Not required, server is public."
+msgstr "不需要，服务器是公共的。"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:21
+msgid "Password"
+msgstr "密码"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:15
+msgid "Ping"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:7
+msgid "Players"
+msgstr "玩家"
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:14
+msgid "Remove favorite"
+msgstr "移除收藏"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:22
+msgid "Required"
+msgstr "需要"
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:18
+msgid "Select mode"
+msgstr "选择模式"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:175
+#: multiplayer/controllers/MultiplayerCtrl.js:66
+msgid "Server"
+msgstr "服务器"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:17
+msgid "Server list type"
+msgstr "服务器列表类型"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:210
+#: multiplayer/controllers/MultiplayerCtrl.js:229
+#: multiplayer/controllers/MultiplayerCtrl.js:26
+#: multiplayer/controllers/MultiplayerCtrl.js:302
+#: multiplayer/controllers/MultiplayerCtrl.js:386
+#: multiplayer/controllers/MultiplayerCtrl.js:61
+msgid "Servers"
+msgstr "服务器"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:38
+msgid "Showing all servers"
+msgstr "展示所有服务器"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:37
+msgid "Showing filtered list based on your selections"
+msgstr "根据你的选择展示过滤后的列表。"
+
+#: multiplayer/partials/modal.mode_selection.html:12
+msgid "Spectate"
+msgstr "旁观"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:11
+msgid ""
+"Steam is currently in offline mode. You can still see a list of LAN and your "
+"favourite servers."
+msgstr "Steam目前处于离线模式。你仍然可以看见局域网服务器以及你收藏的服务器。"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:3
+#: multiplayer/controllers/MultiplayerCtrl.js:235
+#: multiplayer/partials/multiplayer/card.grid.html:5
+#: multiplayer/partials/multiplayer/card.list.html:5
+#: multiplayer/partials/multiplayer/card.thumbnail.html:5
+msgid "Summary"
+msgstr "概要"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:409
+msgid "ai"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:419
+msgid "description"
+msgstr "描述"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:402
+msgid "name"
+msgstr "名称"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:410
+msgid "ping"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:404
+msgid "players"
+msgstr "玩家"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:31
+msgid "refresh"
+msgstr "刷新"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:412
+msgid "version"
+msgstr "版本"

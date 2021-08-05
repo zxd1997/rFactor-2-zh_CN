@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:36
+msgid "Add 5 AI"
+msgstr "添加5个AI"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:32
+msgid "Add AI"
+msgstr "添加AI"
+
+#: event/controllers/EventCtrl.js:269
+msgid "Are you sure you want to exit the current session?"
+msgstr "是否确定要退出当前比赛？"
+
+#: event/controllers/EventCtrl.js:674
+msgid "Are you sure you want to resume driving car {{driverName}} {{vehicleName}}?"
+msgstr "确定要继续驾驶{{driverName}} {{vehicleName}}？"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:28
+msgid "Ban entry"
+msgstr "封禁玩家"
+
+#: event/controllers/VotingModalCtrl.js:23
+msgid "Call session votes"
+msgstr "对比赛节投票"
+
+#: event/controllers/VotingModalCtrl.js:30
+msgid "Call vote on drivers"
+msgstr "对车手投票"
+
+#: event/controllers/EventCtrl.js:541
+msgid "Camera"
+msgstr "摄像机"
+
+#: event/controllers/SelectCarModalCtrl.js:47
+msgid "Cannot find selected driver."
+msgstr "找不到选择的车手。"
+
+#: event/partials/modal.select_car.html:17
+msgid "Car"
+msgstr "车辆"
+
+#: event/partials/modal.select_car.html:16
+msgid "Class"
+msgstr "组别"
+
+#: event/controllers/EventCtrl.js:269
+msgid "Confirm exit"
+msgstr "确认退出"
+
+#: event/components/standings/partials/standings.html:128
+msgid "Current:"
+msgstr "当前："
+
+#: event/services/EventService.js:197
+msgid "DNF"
+msgstr ""
+
+#: event/services/EventService.js:200
+msgid "DQ"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:576
+msgid "Drive"
+msgstr "驾驶"
+
+#: event/partials/modal.select_car.html:14
+msgid "Driver"
+msgstr "车手"
+
+#: event/controllers/VotingModalCtrl.js:29 event/partials/tab.info.html:16
+msgid "Drivers"
+msgstr "车手"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:3
+msgid "Drivers:"
+msgstr "车手："
+
+#: event/controllers/EventCtrl.js:553
+msgid "Event info"
+msgstr "赛事信息"
+
+#: event/controllers/EventCtrl.js:269
+msgid "Exit"
+msgstr "退出"
+
+#: event/components/standings/partials/standings.html:109
+msgid "Expand"
+msgstr "展开"
+
+#: event/controllers/EventCtrl.js:550
+msgid "Info"
+msgstr "信息"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:24
+msgid "Kick entry"
+msgstr "踢出玩家"
+
+#: event/controllers/LapHistoryModalCtrl.js:98
+msgid "Lap"
+msgstr "圈"
+
+#: event/controllers/EventCtrl.js:555
+msgid "Live stream"
+msgstr "现场直播"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:22
+msgid "Next race"
+msgstr "下一场比赛"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:26
+msgid "Next session"
+msgstr "下一比赛节"
+
+#: event/partials/modal.select_car.html:13
+msgid "No."
+msgstr "车号"
+
+#: event/services/EventService.js:203
+msgid "P"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:575
+msgid "Passenger"
+msgstr "乘坐"
+
+#: event/partials/modal.lap_history.html:17
+msgid "Personal best"
+msgstr "个人最佳"
+
+#: event/partials/modal.select_car.html:12
+msgid "Pos"
+msgstr "排名"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:42
+msgid "Restart event"
+msgstr "重启赛事"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:38
+msgid "Restart race"
+msgstr "重启正赛"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:34
+msgid "Restart warmup"
+msgstr "重启热身"
+
+#: event/controllers/EventCtrl.js:567 event/controllers/EventCtrl.js:673
+msgid "Resume"
+msgstr "恢复"
+
+#: event/controllers/EventCtrl.js:672
+msgid "Resume driving"
+msgstr "恢复驾驶"
+
+#: event/partials/tab.eventinfo.html:25
+msgid "Save RealRoad"
+msgstr "保存 RealRoad"
+
+#: event/controllers/EventCtrl.js:543
+msgid "Sectors"
+msgstr "分段"
+
+#: event/partials/modal.select_car.html:1
+msgid "Select"
+msgstr "选择"
+
+#: event/partials/modal.select_car.html:1
+msgid "Select car to ride in"
+msgstr "选择要乘坐的车辆"
+
+#: event/controllers/VotingModalCtrl.js:22
+msgid "Session"
+msgstr "比赛节"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:2
+msgid "Session voting:"
+msgstr "比赛节投票："
+
+#: event/controllers/EventCtrl.js:563
+msgid "Setup"
+msgstr "调校"
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:9
+msgid "Specific event"
+msgstr "特定赛事"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:12
+msgid "Spectators:"
+msgstr "观众："
+
+#: event/controllers/EventCtrl.js:543
+msgid "Standings"
+msgstr "排行榜"
+
+#: event/components/standings/partials/standings.html:120
+msgid "Start:"
+msgstr "排位："
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:30
+msgid "Straight to race"
+msgstr "直接进入正赛"
+
+#: event/partials/modal.select_car.html:15
+msgid "Team"
+msgstr "车队"
+
+#: event/partials/modal.voting.html:13
+msgid "Vote no"
+msgstr "投反对票"
+
+#: event/partials/modal.voting.html:9
+msgid "Vote yes"
+msgstr "投赞成票"
+
+#: event/controllers/VotingModalCtrl.js:18 event/partials/tab.eventinfo.html:31
+msgid "Voting"
+msgstr "投票"
+
+#: event/controllers/EventCtrl.js:562
+msgid "Watch"
+msgstr "观看"
+
+#: event/controllers/EventCtrl.js:623
+msgid "class"
+msgstr "组别"
+
+#: event/controllers/EventCtrl.js:282 event/controllers/EventCtrl.js:290
+msgid "driver"
+msgstr "车手"
+
+#: event/controllers/EventCtrl.js:283 event/controllers/EventCtrl.js:291
+msgid "gap"
+msgstr "差距"
+
+#: event/components/standings/partials/standings.html:107
+#: event/controllers/EventCtrl.js:284 event/controllers/EventCtrl.js:292
+#: event/controllers/LapHistoryModalCtrl.js:137
+#: event/controllers/LapHistoryModalCtrl.js:138
+msgid "lap"
+msgstr ""
+
+#: event/components/standings/partials/standings.html:108
+#: event/controllers/EventCtrl.js:285
+msgid "laps"
+msgstr "圈数"
+
+#: event/controllers/EventCtrl.js:296
+msgid "p"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:621 event/controllers/EventCtrl.js:622
+msgid "pic"
+msgstr "图片"
+
+#: event/controllers/EventCtrl.js:281 event/controllers/EventCtrl.js:289
+#: event/controllers/LapHistoryModalCtrl.js:142
+msgid "pos"
+msgstr "排名"
+
+#: event/controllers/EventCtrl.js:293
+#: event/controllers/LapHistoryModalCtrl.js:139
+msgid "s1"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:294
+#: event/controllers/LapHistoryModalCtrl.js:140
+msgid "s2"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:295
+#: event/controllers/LapHistoryModalCtrl.js:141
+msgid "s3"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:280 event/controllers/EventCtrl.js:288
+#: event/controllers/LapHistoryModalCtrl.js:136
+msgid "sts"
+msgstr "状态"

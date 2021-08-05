@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:36
+msgid "Add 5 AI"
+msgstr ""
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:32
+msgid "Add AI"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:269
+msgid "Are you sure you want to exit the current session?"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:674
+msgid "Are you sure you want to resume driving car {{driverName}} {{vehicleName}}?"
+msgstr ""
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:28
+msgid "Ban entry"
+msgstr ""
+
+#: event/controllers/VotingModalCtrl.js:23
+msgid "Call session votes"
+msgstr ""
+
+#: event/controllers/VotingModalCtrl.js:30
+msgid "Call vote on drivers"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:541
+msgid "Camera"
+msgstr ""
+
+#: event/controllers/SelectCarModalCtrl.js:47
+msgid "Cannot find selected driver."
+msgstr ""
+
+#: event/partials/modal.select_car.html:17
+msgid "Car"
+msgstr ""
+
+#: event/partials/modal.select_car.html:16
+msgid "Class"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:269
+msgid "Confirm exit"
+msgstr ""
+
+#: event/components/standings/partials/standings.html:128
+msgid "Current:"
+msgstr ""
+
+#: event/services/EventService.js:197
+msgid "DNF"
+msgstr ""
+
+#: event/services/EventService.js:200
+msgid "DQ"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:576
+msgid "Drive"
+msgstr ""
+
+#: event/partials/modal.select_car.html:14
+msgid "Driver"
+msgstr ""
+
+#: event/controllers/VotingModalCtrl.js:29
+#: event/partials/tab.info.html:16
+msgid "Drivers"
+msgstr ""
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:3
+msgid "Drivers:"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:553
+msgid "Event info"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:269
+msgid "Exit"
+msgstr ""
+
+#: event/components/standings/partials/standings.html:109
+msgid "Expand"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:550
+msgid "Info"
+msgstr ""
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:24
+msgid "Kick entry"
+msgstr ""
+
+#: event/controllers/LapHistoryModalCtrl.js:98
+msgid "Lap"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:555
+msgid "Live stream"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:22
+msgid "Next race"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:26
+msgid "Next session"
+msgstr ""
+
+#: event/partials/modal.select_car.html:13
+msgid "No."
+msgstr ""
+
+#: event/services/EventService.js:203
+msgid "P"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:575
+msgid "Passenger"
+msgstr ""
+
+#: event/partials/modal.lap_history.html:17
+msgid "Personal best"
+msgstr ""
+
+#: event/partials/modal.select_car.html:12
+msgid "Pos"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:42
+msgid "Restart event"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:38
+msgid "Restart race"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:34
+msgid "Restart warmup"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:567
+#: event/controllers/EventCtrl.js:673
+msgid "Resume"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:672
+msgid "Resume driving"
+msgstr ""
+
+#: event/partials/tab.eventinfo.html:25
+msgid "Save RealRoad"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:543
+msgid "Sectors"
+msgstr ""
+
+#: event/partials/modal.select_car.html:1
+msgid "Select"
+msgstr ""
+
+#: event/partials/modal.select_car.html:1
+msgid "Select car to ride in"
+msgstr ""
+
+#: event/controllers/VotingModalCtrl.js:22
+msgid "Session"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:2
+msgid "Session voting:"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:563
+msgid "Setup"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:9
+msgid "Specific event"
+msgstr ""
+
+#: event/components/votingdriverspanel/partials/votingdriverspanel.html:12
+msgid "Spectators:"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:543
+msgid "Standings"
+msgstr ""
+
+#: event/components/standings/partials/standings.html:120
+msgid "Start:"
+msgstr ""
+
+#: event/components/votingsessionpanel/partials/votingsessionpanel.html:30
+msgid "Straight to race"
+msgstr ""
+
+#: event/partials/modal.select_car.html:15
+msgid "Team"
+msgstr ""
+
+#: event/partials/modal.voting.html:13
+msgid "Vote no"
+msgstr ""
+
+#: event/partials/modal.voting.html:9
+msgid "Vote yes"
+msgstr ""
+
+#: event/controllers/VotingModalCtrl.js:18
+#: event/partials/tab.eventinfo.html:31
+msgid "Voting"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:562
+msgid "Watch"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:623
+msgid "class"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:282
+#: event/controllers/EventCtrl.js:290
+msgid "driver"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:283
+#: event/controllers/EventCtrl.js:291
+msgid "gap"
+msgstr ""
+
+#: event/components/standings/partials/standings.html:107
+#: event/controllers/EventCtrl.js:284
+#: event/controllers/EventCtrl.js:292
+#: event/controllers/LapHistoryModalCtrl.js:137
+#: event/controllers/LapHistoryModalCtrl.js:138
+msgid "lap"
+msgstr ""
+
+#: event/components/standings/partials/standings.html:108
+#: event/controllers/EventCtrl.js:285
+msgid "laps"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:296
+msgid "p"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:621
+#: event/controllers/EventCtrl.js:622
+msgid "pic"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:281
+#: event/controllers/EventCtrl.js:289
+#: event/controllers/LapHistoryModalCtrl.js:142
+msgid "pos"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:293
+#: event/controllers/LapHistoryModalCtrl.js:139
+msgid "s1"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:294
+#: event/controllers/LapHistoryModalCtrl.js:140
+msgid "s2"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:295
+#: event/controllers/LapHistoryModalCtrl.js:141
+msgid "s3"
+msgstr ""
+
+#: event/controllers/EventCtrl.js:280
+#: event/controllers/EventCtrl.js:288
+#: event/controllers/LapHistoryModalCtrl.js:136
+msgid "sts"
+msgstr ""

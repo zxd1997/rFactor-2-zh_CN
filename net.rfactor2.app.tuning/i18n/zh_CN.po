@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: tuning/partials/tuning.html:44
+msgid "** Upgrade Forced For This Track"
+msgstr "** 在这条赛道强制使用该升级"
+
+#: tuning/controllers/TuningEditorCtrl.js:70
+msgid "Alpha"
+msgstr "透明"
+
+#: tuning/controllers/TuningEditorCtrl.js:71
+msgid "Black"
+msgstr "黑色"
+
+#: tuning/controllers/TuningEditorCtrl.js:74
+msgid "Blue"
+msgstr "蓝色"
+
+#: tuning/partials/tuning.html:89
+msgid "Car description"
+msgstr "车辆描述"
+
+#: tuning/partials/tuning.html:95
+msgid "Car number"
+msgstr "车号"
+
+#: tuning/controllers/TuningCtrl.js:105
+msgid "Create"
+msgstr "创建"
+
+#: tuning/partials/tuning.html:68
+msgid "Create Skin Dir"
+msgstr "创建涂装文件夹"
+
+#: tuning/partials/tuning.html:106 tuning/partials/tuning.html:75
+msgid "Create team car"
+msgstr "创建车辆"
+
+#: tuning/controllers/TuningCtrl.js:204
+msgid "Creating team car, please wait."
+msgstr "创建车辆中，请稍候。"
+
+#: tuning/partials/tuning.html:31
+msgid "Customize"
+msgstr "自定义"
+
+#: tuning/partials/tuning.html:77
+msgid "Driver name"
+msgstr "车手名"
+
+#: tuning/controllers/TuningCtrl.js:106
+msgid "Edit"
+msgstr "编辑"
+
+#: tuning/controllers/TuningEditorCtrl.js:78
+msgid "Editing the livery is not supported for this car."
+msgstr "该车辆不支持自定义涂装。"
+
+#: tuning/partials/tuning.html:25
+msgid "Force setup"
+msgstr "强制设置"
+
+#: tuning/controllers/TuningEditorCtrl.js:73
+msgid "Green"
+msgstr "绿色"
+
+#: tuning/controllers/TuningCtrl.js:210
+msgid "Invalid car details."
+msgstr "无效车辆信息。"
+
+#: tuning/partials/tuning.html:126
+msgid "Livery materials"
+msgstr "涂装材质"
+
+#: tuning/partials/tuning.html:71
+msgid "Loose skin directory"
+msgstr "涂装文件夹"
+
+#: tuning/components/metallicflakeadjuster/partials/metallicflakeadjuster.html:2
+msgid "Metallic flake strength"
+msgstr "金属亮片强度"
+
+#: tuning/controllers/TuningCtrl.js:228
+msgid "None selected"
+msgstr "未选择"
+
+#: tuning/controllers/TuningEditorCtrl.js:79
+msgid "Please reload the page."
+msgstr "请重新载入页面。"
+
+#: tuning/controllers/TuningEditorCtrl.js:72
+msgid "Red"
+msgstr "红色"
+
+#: tuning/partials/tuning.html:65
+msgid "Refresh"
+msgstr "刷新"
+
+#: tuning/partials/tuning.html:28
+msgid "Reset setup"
+msgstr "重置设置"
+
+#: tuning/partials/tuning.html:52
+msgid "Skin"
+msgstr "涂装"
+
+#: tuning/partials/tuning.html:50
+msgid "Skins"
+msgstr "涂装"
+
+#: tuning/controllers/TuningCtrl.js:208
+msgid "Team car created."
+msgstr "车辆创建完成。"
+
+#: tuning/partials/tuning.html:83
+msgid "Team name"
+msgstr "车队名"
+
+#: tuning/services/TuningService.js:32
+msgid ""
+"This is a standard class package which is used by AIs. It is also used in "
+"multiplayer if the server has set fixed upgrades."
+msgstr ""
+"这是会被AI默认使用的升级。也会在联机比赛中使用，如果该服务器打开了锁定升"
+"级。"
+
+#: tuning/partials/tuning.html:116
+msgid ""
+"To create a team car, please create the skin dir and select a skin first."
+msgstr "在创建车辆前，请先创建涂装文件夹并且选择一个涂装。"
+
+#: tuning/controllers/TuningCtrl.js:104
+msgid "Upgrade"
+msgstr "升级"
+
+#: tuning/controllers/TuningEditorCtrl.js:75
+msgid "White"
+msgstr "白色"

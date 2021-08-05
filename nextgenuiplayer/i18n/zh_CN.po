@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: player/partials/player.html:31
+msgid "Change name"
+msgstr "更改名字"
+
+#: player/partials/modal.change_name.html:8 player/partials/player.html:11
+msgid "Name:"
+msgstr "姓名："
+
+#: player/partials/modal.change_name.html:15 player/partials/player.html:17
+msgid "Nickname:"
+msgstr "昵称："
+
+#: player/controllers/PlayerCtrl.js:16 player/partials/player.html:6
+msgid "Profile"
+msgstr "个人资料"
+
+#: player/partials/modal.change_name.html:1
+msgid "Submit"
+msgstr "提交"

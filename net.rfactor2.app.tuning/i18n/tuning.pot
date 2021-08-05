@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: tuning/partials/tuning.html:44
+msgid "** Upgrade Forced For This Track"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:70
+msgid "Alpha"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:71
+msgid "Black"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:74
+msgid "Blue"
+msgstr ""
+
+#: tuning/partials/tuning.html:89
+msgid "Car description"
+msgstr ""
+
+#: tuning/partials/tuning.html:95
+msgid "Car number"
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:105
+msgid "Create"
+msgstr ""
+
+#: tuning/partials/tuning.html:68
+msgid "Create Skin Dir"
+msgstr ""
+
+#: tuning/partials/tuning.html:106
+#: tuning/partials/tuning.html:75
+msgid "Create team car"
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:204
+msgid "Creating team car, please wait."
+msgstr ""
+
+#: tuning/partials/tuning.html:31
+msgid "Customize"
+msgstr ""
+
+#: tuning/partials/tuning.html:77
+msgid "Driver name"
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:106
+msgid "Edit"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:78
+msgid "Editing the livery is not supported for this car."
+msgstr ""
+
+#: tuning/partials/tuning.html:25
+msgid "Force setup"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:73
+msgid "Green"
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:210
+msgid "Invalid car details."
+msgstr ""
+
+#: tuning/partials/tuning.html:126
+msgid "Livery materials"
+msgstr ""
+
+#: tuning/partials/tuning.html:71
+msgid "Loose skin directory"
+msgstr ""
+
+#: tuning/components/metallicflakeadjuster/partials/metallicflakeadjuster.html:2
+msgid "Metallic flake strength"
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:228
+msgid "None selected"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:79
+msgid "Please reload the page."
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:72
+msgid "Red"
+msgstr ""
+
+#: tuning/partials/tuning.html:65
+msgid "Refresh"
+msgstr ""
+
+#: tuning/partials/tuning.html:28
+msgid "Reset setup"
+msgstr ""
+
+#: tuning/partials/tuning.html:52
+msgid "Skin"
+msgstr ""
+
+#: tuning/partials/tuning.html:50
+msgid "Skins"
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:208
+msgid "Team car created."
+msgstr ""
+
+#: tuning/partials/tuning.html:83
+msgid "Team name"
+msgstr ""
+
+#: tuning/services/TuningService.js:32
+msgid "This is a standard class package which is used by AIs. It is also used in multiplayer if the server has set fixed upgrades."
+msgstr ""
+
+#: tuning/partials/tuning.html:116
+msgid "To create a team car, please create the skin dir and select a skin first."
+msgstr ""
+
+#: tuning/controllers/TuningCtrl.js:104
+msgid "Upgrade"
+msgstr ""
+
+#: tuning/controllers/TuningEditorCtrl.js:75
+msgid "White"
+msgstr ""

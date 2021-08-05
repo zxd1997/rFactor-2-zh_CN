@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: shop/controllers/PackagesCtrl.js:48
+msgid "Are you sure you want to delete {{package}}?"
+msgstr ""
+
+#: shop/components/packagesummary/partials/packagesummary.html:11
+msgid "Category:"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:47
+#: shop/partials/packages/card.html:28
+msgid "Delete"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:46
+msgid "Delete package"
+msgstr ""
+
+#: shop/partials/packages/card.html:9
+msgid "Install"
+msgstr ""
+
+#: shop/components/packagesummary/partials/packagesummary.html:19
+msgid "Installed:"
+msgstr ""
+
+#: shop/components/packagesummary/partials/packagesummary.html:15
+msgid "Item type:"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:149
+msgid "Loading packages..."
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:125
+msgid "Packages"
+msgstr ""
+
+#: shop/partials/packages/card.html:22
+msgid "Refresh"
+msgstr ""
+
+#: shop/controllers/ShopCtrl.js:12
+#: shop/partials/shop.html:8
+msgid "Shop"
+msgstr ""
+
+#: shop/partials/packages/card.html:2
+msgid "Summary"
+msgstr ""
+
+#: shop/components/packagesummary/partials/packagesummary.html:7
+msgid "Type:"
+msgstr ""
+
+#: shop/partials/packages/card.html:15
+msgid "Uninstall"
+msgstr ""
+
+#: shop/components/packagesummary/partials/packagesummary.html:23
+msgid "Usage:"
+msgstr ""
+
+#: shop/components/packagesummary/partials/packagesummary.html:3
+msgid "Version:"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:90
+msgid "category"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:93
+msgid "installed"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:91
+msgid "item type"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:87
+msgid "name"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:89
+msgid "type"
+msgstr ""
+
+#: shop/controllers/PackagesCtrl.js:88
+msgid "version"
+msgstr ""

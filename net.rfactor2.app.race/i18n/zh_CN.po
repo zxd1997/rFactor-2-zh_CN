@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: race/partials/race.html:192
+msgid "Accept the latest"
+msgstr "接受最新的比赛"
+
+#: race/partials/race.html:155
+msgid "Active sessions"
+msgstr "活跃比赛节"
+
+#: race/controllers/CarSelectCtrl.js:146
+msgid "All cars"
+msgstr "所有车辆"
+
+#: race/controllers/SeriesSelectCtrl.js:65
+msgid "All series"
+msgstr "所有系列赛"
+
+#: race/controllers/TrackSelectCtrl.js:112
+msgid "All tracks"
+msgstr "所有赛道"
+
+#: race/controllers/CarSelectCtrl.js:99
+msgid "Are you sure you want to exit joining the session?"
+msgstr "确定要退出加入该比赛节么？"
+
+#: race/partials/race.html:15
+msgid ""
+"Below you can find a list of your favorite multiplayer servers that are "
+"online. Click on a server to join it or click on more to see the full server "
+"list and to manage your favorites."
+msgstr ""
+"在下面你可以看见当前在线的收藏的联机游戏服务器列表。点击服务器来加入或者点击"
+"更多来查看所有服务器列表以及管理你的收藏。"
+
+#: race/partials/race.html:68
+msgid "Car selection"
+msgstr "车辆选择"
+
+#: race/controllers/RaceCtrl.js:44 race/partials/race.html:146
+msgid "Competition"
+msgstr "比赛系统"
+
+#: race/controllers/CarSelectCtrl.js:161 race/controllers/CarSelectCtrl.js:294
+msgid "Configuration"
+msgstr "配置"
+
+#: race/partials/confirm_selection.modal.html:1
+msgid "Confirm"
+msgstr "确认"
+
+#: race/controllers/ConfirmSelectionModalCtrl.js:32
+msgid "Confirm competition car selection and join session?"
+msgstr "确认参赛车辆选择并加入比赛节？"
+
+#: race/controllers/ConfirmSelectionModalCtrl.js:31
+msgid "Confirm competition car selection?"
+msgstr "确认参赛车辆选择？"
+
+#: race/controllers/CarSelectCtrl.js:99
+msgid "Confirm exit"
+msgstr "确认退出"
+
+#: race/partials/confirm_selection.modal.html:1
+msgid "Confirm selection"
+msgstr "确认选择"
+
+#: race/components/sessionaction/partials/sessionaction.html:27
+msgid "Content needed"
+msgstr "需要额外内容"
+
+#: race/partials/race.html:58
+msgid "Current selection not available."
+msgstr "当前选择不可用。"
+
+#: race/components/sessionaction/partials/sessionaction.html:38
+msgid "Done"
+msgstr "完成"
+
+#: race/controllers/CarSelectCtrl.js:99
+msgid "Exit"
+msgstr "退出"
+
+#: race/components/sessionaction/partials/sessionaction.html:40
+msgid "Failed"
+msgstr "失败"
+
+#: race/components/sessionaction/partials/sessionaction.html:26
+#: race/components/sessionaction/partials/sessionaction.html:6
+msgid "Join"
+msgstr "加入"
+
+#: race/controllers/CarSelectCtrl.js:205
+#: race/controllers/SeriesSelectCtrl.js:17
+#: race/controllers/TrackSelectCtrl.js:150
+msgid "Loading series"
+msgstr "载入系列中。。。"
+
+#: race/partials/race.html:177 race/partials/race.html:45
+msgid "More"
+msgstr "更多"
+
+#: race/controllers/RaceCtrl.js:42 race/controllers/RaceCtrl.js:47
+#: race/partials/race.html:8
+msgid "Multiplayer"
+msgstr "联机游戏"
+
+#: race/controllers/CarSelectCtrl.js:57
+msgid "No cars found for this series, please try selecting another series."
+msgstr "这一系列赛中找不到车辆，请尝试选择另一个系列赛。"
+
+#: race/partials/race.html:24
+msgid "No favorite servers found."
+msgstr "没有找到收藏的服务器。"
+
+#: race/partials/race.html:111
+msgid "No selected car found."
+msgstr "没有选择车辆。"
+
+#: race/partials/race.html:79
+msgid "No selected series found."
+msgstr "没有选择系列赛。"
+
+#: race/partials/race.html:100
+msgid "No selected track found."
+msgstr "没有选择赛道。"
+
+#: race/components/activesessions/partials/activesessions.html:33
+msgid "No sessions that you can pre-join or join at the moment."
+msgstr "没有当前可以预加入或是加入的比赛节。"
+
+#: race/components/sessionaction/partials/sessionaction.html:35
+msgid "No split"
+msgstr "没有分组"
+
+#: race/controllers/TrackSelectCtrl.js:20
+msgid "No tracks found for this series, please try selecting another series."
+msgstr "这一系列赛中找不到赛道，请尝试选择另一个系列赛。"
+
+#: race/components/sessionaction/partials/sessionaction.html:30
+msgid "Not registered, cannot join"
+msgstr "未注册，无法加入"
+
+#: race/partials/race.html:136
+msgid "Race"
+msgstr "比赛"
+
+#: race/controllers/RaceCtrl.js:122
+msgid "Refresh favorites"
+msgstr "刷新收藏"
+
+#: race/components/sessionaction/partials/sessionaction.html:12
+msgid "Register"
+msgstr "注册"
+
+#: race/components/sessionaction/partials/sessionaction.html:2
+msgid "Registration starts later"
+msgstr "注册将会在稍后开始"
+
+#: race/controllers/SeriesSelectCtrl.js:59
+msgid "Series"
+msgstr "系列赛"
+
+#: race/partials/race.html:60
+msgid "Series selection"
+msgstr "系列赛选择"
+
+#: race/controllers/CarSelectCtrl.js:140
+#: race/controllers/TrackSelectCtrl.js:107
+msgid "Series:"
+msgstr "系列赛："
+
+#: race/partials/race.html:139
+msgid "Session Settings"
+msgstr "比赛节设置"
+
+#: race/partials/race.html:184
+msgid "Sign up"
+msgstr "报名"
+
+#: race/components/sessionaction/partials/sessionaction.html:14
+msgid "Sign up to register"
+msgstr "报名以注册"
+
+#: race/controllers/RaceCtrl.js:43 race/partials/race.html:56
+msgid "Single player"
+msgstr "单人游戏"
+
+#: race/partials/race.html:10
+msgid ""
+"Steam is currently in offline mode. Please exit rFactor 2 and go online in "
+"Steam to access the full server list. Below you can still see your favourite "
+"servers that are online. You can also access the list of LAN servers by "
+"clicking the more button."
+msgstr ""
+"Steam现在处于离线模式。请退出rFactor 2并且让Steam上线来访问全部服务器列表。在"
+"下面你还是能看见当前在线的收藏的联机游戏服务器列表。你也可以点击更多来查看局"
+"域网服务器列表。"
+
+#: race/partials/race.html:148
+msgid "Take part in online competitions"
+msgstr "参加联机比赛"
+
+#: race/partials/race.html:150
+msgid "The competition system is offline right now."
+msgstr "比赛系统现在处于离线状态。"
+
+#: race/components/sessionaction/partials/sessionaction.html:39
+msgid "Too late"
+msgstr "太晚了"
+
+#: race/partials/race.html:64
+msgid "Track selection"
+msgstr "赛道选择"
+
+#: race/partials/race.html:21
+msgid "Your favorite servers"
+msgstr "收藏的服务器"

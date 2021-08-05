@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: sessions/partials/opponents.html:4
+msgid "AI Drivers"
+msgstr ""
+
+#: sessions/partials/opponents.html:3
+msgid "AI Settings"
+msgstr ""
+
+#: sessions/partials/opponents.html:16
+msgid "AI aggression"
+msgstr ""
+
+#: sessions/partials/opponents.html:22
+msgid "AI limiter"
+msgstr ""
+
+#: sessions/partials/opponents.html:10
+msgid "AI strength"
+msgstr ""
+
+#: sessions/partials/panel_explanation_modal.html:1
+msgid "Close"
+msgstr ""
+
+#: sessions/partials/configuration.html:15
+msgid "Damage Multiplier"
+msgstr ""
+
+#: sessions/partials/race.html:8
+msgid "Finish Criteria"
+msgstr ""
+
+#: sessions/partials/configuration.html:10
+msgid "Flag Rules"
+msgstr ""
+
+#: sessions/partials/configuration.html:11
+msgid "Fuel Usage"
+msgstr ""
+
+#: sessions/partials/configuration.html:8
+msgid "General Settings"
+msgstr ""
+
+#: sessions/app.js:43
+msgid "Global event settings"
+msgstr ""
+
+#: sessions/partials/race.html:9
+msgid "Grid Position"
+msgstr ""
+
+#: sessions/app.js:55
+msgid "Here you can change the AI settings and select your opponents."
+msgstr ""
+
+#: sessions/app.js:44
+msgid "Here you can define all the parameters for your single player session including weather presets, opponents, time of day, amount of rubber on track, and more..."
+msgstr ""
+
+#: sessions/partials/practice.html:28
+#: sessions/partials/qualify.html:29
+#: sessions/partials/race.html:32
+msgid "Humidity"
+msgstr ""
+
+#: sessions/services/PanelService.js:187
+msgid "In a practice session you can run laps and get to know the layout before jumping in to qualification and setting a time that will count on the grid start."
+msgstr ""
+
+#: sessions/services/PanelService.js:190
+msgid "In a qualification session you set your fastest time to get your place on the grid in the race."
+msgstr ""
+
+#: sessions/services/PanelService.js:193
+msgid "In a warmup session you lap and to get some heat in the tires before the race. You laptime will not count towards your place on the starting grid."
+msgstr ""
+
+#: sessions/partials/qualify.html:6
+msgid "Laps"
+msgstr ""
+
+#: sessions/partials/configuration.html:12
+msgid "Mechanical Failure"
+msgstr ""
+
+#: sessions/partials/configuration.html:3
+msgid "Number of Sessions"
+msgstr ""
+
+#: sessions/partials/opponents.html:32
+msgid "Opponent Filter"
+msgstr ""
+
+#: sessions/app.js:53
+#: sessions/partials/opponents.html:42
+msgid "Opponents"
+msgstr ""
+
+#: sessions/partials/practice.html:8
+msgid "Practice Time"
+msgstr ""
+
+#: sessions/partials/practice.html:6
+msgid "Private Practice"
+msgstr ""
+
+#: sessions/partials/qualify.html:4
+msgid "Private Qualifying"
+msgstr ""
+
+#: sessions/partials/qualify.html:7
+msgid "Qualifying Time"
+msgstr ""
+
+#: sessions/partials/race.html:6
+msgid "Race Laps"
+msgstr ""
+
+#: sessions/partials/race.html:4
+msgid "Race Start Type"
+msgstr ""
+
+#: sessions/partials/race.html:7
+msgid "Race Time"
+msgstr ""
+
+#: sessions/partials/practice.html:27
+#: sessions/partials/qualify.html:28
+#: sessions/partials/race.html:31
+msgid "Rain Chance"
+msgstr ""
+
+#: sessions/partials/practice.html:10
+#: sessions/partials/qualify.html:9
+#: sessions/partials/race.html:12
+msgid "RealRoad"
+msgstr ""
+
+#: sessions/partials/practice.html:11
+#: sessions/partials/qualify.html:10
+#: sessions/partials/race.html:13
+msgid "RealRoad Time Scale"
+msgstr ""
+
+#: sessions/partials/opponents.html:54
+msgid "Remove All"
+msgstr ""
+
+#: sessions/partials/opponents.html:51
+msgid "Select All"
+msgstr ""
+
+#: sessions/app.js:54
+msgid "Selection and settings"
+msgstr ""
+
+#: sessions/app.js:69
+#: sessions/partials/practice.html:3
+#: sessions/partials/qualify.html:3
+#: sessions/partials/race.html:3
+#: sessions/partials/warmup.html:4
+msgid "Session"
+msgstr ""
+
+#: sessions/app.js:70
+msgid "Session settings and weather"
+msgstr ""
+
+#: sessions/app.js:42
+msgid "Sessions"
+msgstr ""
+
+#: sessions/partials/configuration.html:14
+#: sessions/partials/practice.html:25
+#: sessions/partials/qualify.html:26
+#: sessions/partials/race.html:29
+msgid "Simple Weather"
+msgstr ""
+
+#: sessions/partials/practice.html:26
+#: sessions/partials/qualify.html:27
+#: sessions/partials/race.html:30
+msgid "Sky"
+msgstr ""
+
+#: sessions/partials/practice.html:7
+#: sessions/partials/qualify.html:5
+#: sessions/partials/race.html:5
+#: sessions/partials/warmup.html:5
+msgid "Start Time"
+msgstr ""
+
+#: sessions/partials/practice.html:29
+#: sessions/partials/qualify.html:30
+#: sessions/partials/race.html:33
+msgid "Temperature"
+msgstr ""
+
+#: sessions/services/PanelService.js:196
+msgid "The race session is the real thing, here you compete with your opponents to win!"
+msgstr ""
+
+#: sessions/partials/configuration.html:9
+#: sessions/partials/practice.html:4
+msgid "Time Scale"
+msgstr ""
+
+#: sessions/partials/configuration.html:13
+msgid "Tire Wear"
+msgstr ""
+
+#: sessions/partials/practice.html:9
+#: sessions/partials/qualify.html:8
+#: sessions/partials/race.html:11
+msgid "Track"
+msgstr ""
+
+#: sessions/partials/practice.html:14
+#: sessions/partials/qualify.html:15
+#: sessions/partials/race.html:18
+msgid "Weather"
+msgstr ""
+
+#: sessions/partials/practice.html:31
+#: sessions/partials/qualify.html:32
+#: sessions/partials/race.html:35
+msgid "Wind Direction"
+msgstr ""
+
+#: sessions/partials/practice.html:30
+#: sessions/partials/qualify.html:31
+#: sessions/partials/race.html:34
+msgid "Wind Speed"
+msgstr ""
+
+#: sessions/partials/practice.html:24
+#: sessions/partials/qualify.html:25
+#: sessions/partials/race.html:28
+msgid "{WEATHERNODE, select, START{Weather settings at the start of the session.} FINISH{Weather settings at the end of the session.} other{Weather settings at {WEATHERNODE} of the session length.} }"
+msgstr ""

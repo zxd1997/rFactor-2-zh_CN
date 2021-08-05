@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: watch/controllers/WatchCtrl.js:24 watch/partials/watch.html:11
+msgid "Broadcasts"
+msgstr "Sendungen"
+
+#: watch/controllers/ReplaySelectCtrl.js:48 watch/partials/delete.html:1
+#: watch/partials/delete.html:10
+msgid "Delete"
+msgstr "Löschen"
+
+#: watch/partials/delete.html:1
+msgid "Delete Replay"
+msgstr "Wiederholung löschen"
+
+#: watch/partials/rename.html:9
+msgid "Enter new name"
+msgstr "Geben Sie einen neuen Namen ein"
+
+#: watch/controllers/RenameCtrl.js:29
+msgid "File exists"
+msgstr "Datei existiert"
+
+#: watch/partials/panel.replays.html:2
+msgid "Latest activity"
+msgstr "Letzte Aktivität"
+
+#: watch/controllers/WatchCtrl.js:25 watch/partials/watch.html:14
+msgid "Live timing"
+msgstr "Live zeitliche Koordinierung"
+
+#: watch/partials/panel.replays.html:24
+msgid "More"
+msgstr "Mehr"
+
+#: watch/partials/panel.replays.html:1
+msgid "Recorded races"
+msgstr "Aufgezeichnete Rennen"
+
+#: watch/controllers/ReplaySelectCtrl.js:49
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: watch/partials/rename.html:1
+msgid "Rename Replay"
+msgstr "Umbenennen die Wiederholung"
+
+#: watch/controllers/ReplaySelectCtrl.js:36
+#: watch/controllers/ReplaySelectCtrl.js:42 watch/controllers/WatchCtrl.js:21
+#: watch/partials/watch.html:7
+msgid "Replays"
+msgstr "Wiederholungen"
+
+#: watch/partials/rename.html:1
+msgid "Save"
+msgstr "Speichern"
+
+#: watch/controllers/RenameCtrl.js:32
+msgid "Unable to rename"
+msgstr "Umbenennung nicht möglich"
+
+#: watch/controllers/ReplaySelectCtrl.js:41
+#: watch/controllers/ReplaySelectCtrl.js:47
+msgid "Watch"
+msgstr "Zusehen"

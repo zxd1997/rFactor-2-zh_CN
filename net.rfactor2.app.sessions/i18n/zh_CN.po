@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: sessions/partials/opponents.html:4
+msgid "AI Drivers"
+msgstr "AI车手数量"
+
+#: sessions/partials/opponents.html:3
+msgid "AI Settings"
+msgstr "AI设置"
+
+#: sessions/partials/opponents.html:16
+msgid "AI aggression"
+msgstr "AI侵略性"
+
+#: sessions/partials/opponents.html:22
+msgid "AI limiter"
+msgstr "AI限制"
+
+#: sessions/partials/opponents.html:10
+msgid "AI strength"
+msgstr "AI强度"
+
+#: sessions/partials/panel_explanation_modal.html:1
+msgid "Close"
+msgstr "关闭"
+
+#: sessions/partials/configuration.html:15
+msgid "Damage Multiplier"
+msgstr "损坏倍率"
+
+#: sessions/partials/race.html:8
+msgid "Finish Criteria"
+msgstr "完赛标准"
+
+#: sessions/partials/configuration.html:10
+msgid "Flag Rules"
+msgstr "旗语规则"
+
+#: sessions/partials/configuration.html:11
+msgid "Fuel Usage"
+msgstr "油量使用"
+
+#: sessions/partials/configuration.html:8
+msgid "General Settings"
+msgstr "通用设置"
+
+#: sessions/app.js:43
+msgid "Global event settings"
+msgstr "全局赛事设置"
+
+#: sessions/partials/race.html:9
+msgid "Grid Position"
+msgstr "旗袍位置"
+
+#: sessions/app.js:55
+msgid "Here you can change the AI settings and select your opponents."
+msgstr "在这里你可以改变AI设计以及选择你的对手。"
+
+#: sessions/app.js:44
+msgid ""
+"Here you can define all the parameters for your single player session "
+"including weather presets, opponents, time of day, amount of rubber on "
+"track, and more..."
+msgstr ""
+"在该页可以定义所有单机比赛节的设置，包括天气预设，对手，比赛时间，赛道上橡胶"
+"数量等等。"
+
+#: sessions/partials/practice.html:28 sessions/partials/qualify.html:29
+#: sessions/partials/race.html:32
+msgid "Humidity"
+msgstr "湿度"
+
+#: sessions/services/PanelService.js:187
+msgid ""
+"In a practice session you can run laps and get to know the layout before "
+"jumping in to qualification and setting a time that will count on the grid "
+"start."
+msgstr ""
+"在练习节你可以进行试跑并且在进入决定起跑位置的排位赛之前熟悉赛道布局。"
+
+#: sessions/services/PanelService.js:190
+msgid ""
+"In a qualification session you set your fastest time to get your place on "
+"the grid in the race."
+msgstr "在排位赛中你需要跑出的你的最快单圈来决定正赛起跑位置。"
+
+#: sessions/services/PanelService.js:193
+msgid ""
+"In a warmup session you lap and to get some heat in the tires before the "
+"race. You laptime will not count towards your place on the starting grid."
+msgstr "在热身节你可以在正赛前熟悉车辆。你的单圈不会影响正赛的起跑位置。"
+
+#: sessions/partials/qualify.html:6
+msgid "Laps"
+msgstr "圈数"
+
+#: sessions/partials/configuration.html:12
+msgid "Mechanical Failure"
+msgstr "机械故障"
+
+#: sessions/partials/configuration.html:3
+msgid "Number of Sessions"
+msgstr "比赛节数量"
+
+#: sessions/partials/opponents.html:32
+msgid "Opponent Filter"
+msgstr "对手过滤器"
+
+#: sessions/app.js:53 sessions/partials/opponents.html:42
+msgid "Opponents"
+msgstr "对手"
+
+#: sessions/partials/practice.html:8
+msgid "Practice Time"
+msgstr "练习赛时长"
+
+#: sessions/partials/practice.html:6
+msgid "Private Practice"
+msgstr "私人练习赛"
+
+#: sessions/partials/qualify.html:4
+msgid "Private Qualifying"
+msgstr "私人排位赛"
+
+#: sessions/partials/qualify.html:7
+msgid "Qualifying Time"
+msgstr "排位赛时长"
+
+#: sessions/partials/race.html:6
+msgid "Race Laps"
+msgstr "正赛圈数"
+
+#: sessions/partials/race.html:4
+msgid "Race Start Type"
+msgstr "起步类型"
+
+#: sessions/partials/race.html:7
+msgid "Race Time"
+msgstr "正赛时长"
+
+#: sessions/partials/practice.html:27 sessions/partials/qualify.html:28
+#: sessions/partials/race.html:31
+msgid "Rain Chance"
+msgstr "降雨概率"
+
+#: sessions/partials/practice.html:10 sessions/partials/qualify.html:9
+#: sessions/partials/race.html:12
+msgid "RealRoad"
+msgstr ""
+
+#: sessions/partials/practice.html:11 sessions/partials/qualify.html:10
+#: sessions/partials/race.html:13
+msgid "RealRoad Time Scale"
+msgstr "RealRoad时间倍率"
+
+#: sessions/partials/opponents.html:54
+msgid "Remove All"
+msgstr "清除所有"
+
+#: sessions/partials/opponents.html:51
+msgid "Select All"
+msgstr "选择所有"
+
+#: sessions/app.js:54
+msgid "Selection and settings"
+msgstr "选择以及设置"
+
+#: sessions/app.js:69 sessions/partials/practice.html:3
+#: sessions/partials/qualify.html:3 sessions/partials/race.html:3
+#: sessions/partials/warmup.html:4
+msgid "Session"
+msgstr "比赛节"
+
+#: sessions/app.js:70
+msgid "Session settings and weather"
+msgstr "比赛节设置以及天气"
+
+#: sessions/app.js:42
+msgid "Sessions"
+msgstr "比赛节"
+
+#: sessions/partials/configuration.html:14 sessions/partials/practice.html:25
+#: sessions/partials/qualify.html:26 sessions/partials/race.html:29
+msgid "Simple Weather"
+msgstr "简要天气"
+
+#: sessions/partials/practice.html:26 sessions/partials/qualify.html:27
+#: sessions/partials/race.html:30
+msgid "Sky"
+msgstr "天空"
+
+#: sessions/partials/practice.html:7 sessions/partials/qualify.html:5
+#: sessions/partials/race.html:5 sessions/partials/warmup.html:5
+msgid "Start Time"
+msgstr "开赛时间"
+
+#: sessions/partials/practice.html:29 sessions/partials/qualify.html:30
+#: sessions/partials/race.html:33
+msgid "Temperature"
+msgstr "温度"
+
+#: sessions/services/PanelService.js:196
+msgid ""
+"The race session is the real thing, here you compete with your opponents to "
+"win!"
+msgstr "正赛节是真正的挑战，在这里你需要与对手争夺冠军！"
+
+#: sessions/partials/configuration.html:9 sessions/partials/practice.html:4
+msgid "Time Scale"
+msgstr "时间倍率"
+
+#: sessions/partials/configuration.html:13
+msgid "Tire Wear"
+msgstr "轮胎磨损"
+
+#: sessions/partials/practice.html:9 sessions/partials/qualify.html:8
+#: sessions/partials/race.html:11
+msgid "Track"
+msgstr "赛道"
+
+#: sessions/partials/practice.html:14 sessions/partials/qualify.html:15
+#: sessions/partials/race.html:18
+msgid "Weather"
+msgstr "天气"
+
+#: sessions/partials/practice.html:31 sessions/partials/qualify.html:32
+#: sessions/partials/race.html:35
+msgid "Wind Direction"
+msgstr "风向"
+
+#: sessions/partials/practice.html:30 sessions/partials/qualify.html:31
+#: sessions/partials/race.html:34
+msgid "Wind Speed"
+msgstr "风速"
+
+#: sessions/partials/practice.html:24 sessions/partials/qualify.html:25
+#: sessions/partials/race.html:28
+msgid ""
+"{WEATHERNODE, select, START{Weather settings at the start of the session.} "
+"FINISH{Weather settings at the end of the session.} other{Weather settings "
+"at {WEATHERNODE} of the session length.} }"
+msgstr ""
+"{WEATHERNODE, select, START{比赛节开始时的天气。} FINISH{比赛节结束时的天"
+"气。} other{比赛节进行到{WEATHERNODE}时的天气。} }"

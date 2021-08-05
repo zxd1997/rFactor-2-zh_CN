@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: tuning/partials/tuning.html:39
+msgid "Create Skin Dir"
+msgstr "Skin Dir Erstellen"
+
+#: tuning/partials/tuning.html:6
+msgid "Customize"
+msgstr "Anpassen"
+
+#: tuning/partials/tuning.html:42
+msgid "Loose skin directory"
+msgstr "Lose skin Verzeichnis"
+
+#: tuning/controllers/TuningCtrl.js:133
+msgid "None selected"
+msgstr "Nichts ausgewählt"
+
+#: tuning/partials/tuning.html:36
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: tuning/partials/tuning.html:23
+msgid "Skin"
+msgstr "Skin"
+
+#: tuning/partials/tuning.html:21
+msgid "Skins"
+msgstr "Skins"
+
+#: tuning/services/TuningService.js:23
+msgid ""
+"This is a standard class package which is used by AIs. It is also used in "
+"multiplayer if the server has set fixed upgrades."
+msgstr ""
+"Dies ist ein Standardklasse-Paket, das von AIs verwendet wird. Es wird auch "
+"im Mehrspielermodus verwendet, wenn der Server feste Upgrades festgelegt hat."
+
+#~ msgid "N/A"
+#~ msgstr "N/V"
+
+#~ msgid "None"
+#~ msgstr "Keine"

@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Bookmarks: -1,6,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:11
+msgid "AI drivers"
+msgstr "KI-Fahrer"
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:11
+msgid "Add favorite"
+msgstr "Favoriten hinzufügen"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:32
+msgid "All"
+msgstr "Alle"
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:16
+msgid "Back"
+msgstr "Zurück"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:26
+msgid "Description"
+msgstr "Beschreibung"
+
+#: multiplayer/partials/modal.mode_selection.html:9
+msgid "Drive"
+msgstr "Laufwerk"
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:17
+msgid "Exit game"
+msgstr "Spiel verlassen"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:199
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:31
+msgid "Filtered"
+msgstr "Gefiltert"
+
+#: multiplayer/components/filteroptions/partials/filteroptions.html:2
+msgid "Filters"
+msgstr "Filtern"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:201
+msgid "Friends"
+msgstr "Freunde"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:259
+msgid "Has players"
+msgstr "Hat Spieler"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:261
+msgid "Has same version"
+msgstr "Hat die gleiche Version"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:5
+msgid "Here you can find a list of available rFactor 2 servers."
+msgstr "Hier finden Sie eine Liste der verfügbaren rFactor 2 Server."
+
+#: multiplayer/controllers/MultiplayerCtrl.js:196
+msgid "Internet"
+msgstr "Internet"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:260
+msgid "Is public"
+msgstr "Ist öffentlich"
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:3
+msgid "Join"
+msgstr "Beitreten"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:198
+msgid "LAN"
+msgstr "LAN"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:203
+msgid "Loading server list, please wait."
+msgstr "Serverliste wird geladen, bitte warten."
+
+#: multiplayer/controllers/MultiplayerCtrl.js:227
+msgid "Multiplayer"
+msgstr "Mehrspielermodus"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:35
+msgid "N/A"
+msgstr "N/V"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:3
+msgid "Name"
+msgstr "Name"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:262
+msgid "No AI"
+msgstr "Keine KI"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:258
+msgid "Not full"
+msgstr "Nicht voll"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:23
+msgid "Not required, server is public."
+msgstr "Nicht erforderlich, ist der Server öffentlich."
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:21
+msgid "Password"
+msgstr "Passwort"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:15
+msgid "Ping"
+msgstr "Ping"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:7
+msgid "Players"
+msgstr "Spieler"
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:18
+msgid "Remove favorite"
+msgstr "Favoriten hinzufügen"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:22
+msgid "Required"
+msgstr "Erforderlich"
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:18
+msgid "Select mode"
+msgstr "Verknüpfung auswählen"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:120
+#: multiplayer/controllers/MultiplayerCtrl.js:65
+msgid "Server"
+msgstr "Server"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:17
+msgid "Server list type"
+msgstr "Typ der Serverliste"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:140
+#: multiplayer/controllers/MultiplayerCtrl.js:156
+#: multiplayer/controllers/MultiplayerCtrl.js:267
+#: multiplayer/controllers/MultiplayerCtrl.js:29
+#: multiplayer/controllers/MultiplayerCtrl.js:326
+#: multiplayer/controllers/MultiplayerCtrl.js:60
+msgid "Servers"
+msgstr "Server"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:40
+msgid "Showing all servers"
+msgstr "Zeige alle Server"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:39
+msgid "Showing filtered list based on your selections"
+msgstr "Gefilterte Liste basierend auf Ihrer Auswahl anzeigen"
+
+#: multiplayer/partials/modal.mode_selection.html:12
+msgid "Spectate"
+msgstr "Zuschauen"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:11
+msgid ""
+"Steam is currently in offline mode. You can still see a list of LAN and your "
+"favourite servers."
+msgstr ""
+"Steam befindet sich derzeit im Offline-Modus. Sie können weiterhin eine "
+"Liste von LAN und Ihren Lieblingsservern sehen."
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:3
+#: multiplayer/controllers/MultiplayerCtrl.js:162
+#: multiplayer/partials/multiplayer/card.grid.html:5
+#: multiplayer/partials/multiplayer/card.list.html:5
+#: multiplayer/partials/multiplayer/card.thumbnail.html:5
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:236
+msgid "ai"
+msgstr "ki"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:239
+msgid "description"
+msgstr "Beschreibung"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:234
+msgid "name"
+msgstr "der Name"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:237
+msgid "ping"
+msgstr "ping"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:235
+msgid "players"
+msgstr "spieler"
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:29
+msgid "refresh"
+msgstr "Aktualisieren"
+
+#: multiplayer/controllers/MultiplayerCtrl.js:238
+msgid "version"
+msgstr "die Version"
+
+#~ msgid "Enter server password:"
+#~ msgstr "Server-Passwort eingeben:"
+
+#~ msgid "Incorrect password."
+#~ msgstr "Falsches Passwort."
+
+#~ msgid "Please enter a valid password."
+#~ msgstr "Bitte geben Sie ein gültiges Passwort ein."
+
+#~ msgid "submit"
+#~ msgstr "einreichen"
+
+#~ msgid "Bookmark"
+#~ msgstr "Lesezeichen"
+
+#~ msgid "Event"
+#~ msgstr "Veranstaltung"
+
+#~ msgid "Events"
+#~ msgstr "Veranstaltungen"
+
+#~ msgid "Events overview settings"
+#~ msgstr "Übersichtsseiten"
+
+#~ msgid "License"
+#~ msgstr "Lizenz"
+
+#~ msgid "No ovals"
+#~ msgstr "Keine Ovale"
+
+#~ msgid "Only show servers from rF2 whitelist"
+#~ msgstr "Zeigen Sie nur Server von der rF2 Whitelist an"
+
+#~ msgid "Points"
+#~ msgstr "Punkte"
+
+#~ msgid "Progress"
+#~ msgstr "Fortschritt"
+
+#~ msgid "Racer"
+#~ msgstr "Rennfahrer"
+
+#~ msgid "Remaining"
+#~ msgstr "Verbleibend"
+
+#~ msgid "Selected"
+#~ msgstr "Ausgewählt"
+
+#~ msgid "Series"
+#~ msgstr "Serien"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Track"
+#~ msgstr "Rennstrecke"
+
+#~ msgid "Tracks"
+#~ msgstr "Rennstrecken"
+
+#~ msgid "Whitelist only"
+#~ msgstr "Nur Whitelist"
+
+#~ msgid "customize"
+#~ msgstr "anpassen"
+
+#~ msgid "host"
+#~ msgstr "gastgeber"
+
+#~ msgid "reset"
+#~ msgstr "zurücksetzen"
+
+#~ msgid "series"
+#~ msgstr "serien"
+
+#~ msgid "time"
+#~ msgstr "zeit"
+
+#~ msgid "track"
+#~ msgstr "rennstrecke"

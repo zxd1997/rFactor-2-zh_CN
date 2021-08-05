@@ -1,0 +1,1559 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: options/partials/difficulty.html:164
+#: options/services/SummaryService.js:88
+msgid "AI aggression"
+msgstr ""
+
+#: options/partials/difficulty.html:171
+msgid "AI limiter"
+msgstr ""
+
+#: options/partials/difficulty.html:156
+#: options/services/SummaryService.js:86
+msgid "AI strength"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:10
+msgid "Adjust seat aft"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:24
+msgid "Adjust seat down"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:3
+msgid "Adjust seat fore"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:17
+msgid "Adjust seat up"
+msgstr ""
+
+#: options/app.js:119
+msgid "Adjust the volume of different sounds and configure your speakers and spotter."
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:376
+msgid "Alt brake"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:404
+msgid "Alt shift down"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:397
+msgid "Alt shift up"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:383
+msgid "Alt steer left"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:390
+msgid "Alt steer right"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:369
+msgid "Alt throttle"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:269
+msgid "Alternate ESC"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:59
+#: options/partials/difficulty.html:60
+msgid "Anti-lock brakes"
+msgstr ""
+
+#: options/partials/graphics.html:95
+msgid "Apply"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:222
+msgid "Arm Attack Mode"
+msgstr ""
+
+#: options/app.js:81
+msgid "Assign"
+msgstr ""
+
+#: options/partials/difficulty.html:83
+msgid "Auto blip"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:73
+#: options/partials/difficulty.html:74
+msgid "Auto clutch"
+msgstr ""
+
+#: options/partials/display.html:185
+msgid "Auto detail FPS"
+msgstr ""
+
+#: options/partials/difficulty.html:132
+msgid "Auto headlights"
+msgstr ""
+
+#: options/partials/difficulty.html:90
+msgid "Auto lift"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:66
+#: options/partials/difficulty.html:67
+msgid "Auto pit lane"
+msgstr ""
+
+#: options/partials/difficulty.html:139
+msgid "Auto reverse"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:45
+#: options/partials/difficulty.html:46
+msgid "Auto shifting"
+msgstr ""
+
+#: options/partials/difficulty.html:118
+msgid "Auto start engine"
+msgstr ""
+
+#: options/partials/difficulty.html:125
+msgid "Auto windscreen wipers"
+msgstr ""
+
+#: options/partials/graphics.html:168
+#: options/partials/graphics.html:214
+#: options/partials/graphics.html:260
+#: options/partials/graphics.html:306
+msgid "Bezel gap"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:10
+#: options/partials/calibrate.html:86
+msgid "Brake"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:82
+msgid "Brake bias forward"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:89
+msgid "Brake bias rearward"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:17
+#: options/partials/difficulty.html:18
+msgid "Braking help"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:255
+msgid "CPU time"
+msgstr ""
+
+#: options/app.js:69
+#: options/app.js:70
+msgid "Calibrate"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:305
+msgid "Cam move backward"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:333
+msgid "Cam move down"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:298
+msgid "Cam move forward"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:312
+msgid "Cam move left"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:319
+msgid "Cam move right"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:326
+msgid "Cam move up"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:347
+msgid "Cam tilt down"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:354
+msgid "Cam tilt left"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:361
+msgid "Cam tilt right"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:340
+msgid "Cam tilt up"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:368
+msgid "Cam turn left"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:375
+msgid "Cam turn right"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:382
+msgid "Cam zoom in"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:389
+msgid "Cam zoom out"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:184
+msgid "Camera"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:410
+msgid "Camera change"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:291
+msgid "Camera move slowly"
+msgstr ""
+
+#: options/partials/calibrate.html:197
+msgid "Car specific multiplier"
+msgstr ""
+
+#: options/controllers/GraphicsCtrl.js:103
+#: options/controllers/GraphicsCtrl.js:106
+#: options/partials/calibrate.html:19
+msgid "Center"
+msgstr ""
+
+#: options/app.js:107
+msgid "Change the graphics detail levels and other visual settings, like mirrors and FOV."
+msgstr ""
+
+#: options/app.js:95
+msgid "Change the graphics settings. Changing these settings will require a restart of the game."
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:66
+#: options/components/controlsbox/partials/chat.html:1
+msgid "Chat"
+msgstr ""
+
+#: options/services/SummaryService.js:95
+msgid "Circuit"
+msgstr ""
+
+#: options/partials/display.html:4
+msgid "Circuit detail"
+msgstr ""
+
+#: options/partials/panel_description_modal.html:1
+msgid "Close"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:52
+#: options/partials/calibrate.html:40
+msgid "Clutch"
+msgstr ""
+
+#: options/components/configlist/partials/configlist.html:3
+msgid "Configuration"
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:71
+msgid "Configure controls for screen overlay display."
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:70
+msgid "Configure controls for toggling driving aids."
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:73
+msgid "Configure hotkeys for sending chat messages and voting."
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:72
+msgid "Configure hotkeys for toggling plugins and other game controls."
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:69
+msgid "Configure your driving and other in-car controls."
+msgstr ""
+
+#: options/partials/network.html:3
+msgid "Connection type"
+msgstr ""
+
+#: options/app.js:82
+msgid "Control configuration"
+msgstr ""
+
+#: options/partials/assign.html:4
+msgid "Controller"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:1
+msgid "Controls"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:59
+msgid "Custom plugin #1"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:122
+msgid "Custom plugin #10"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:129
+msgid "Custom plugin #11"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:136
+msgid "Custom plugin #12"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:66
+msgid "Custom plugin #2"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:73
+msgid "Custom plugin #3"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:80
+msgid "Custom plugin #4"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:87
+msgid "Custom plugin #5"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:94
+msgid "Custom plugin #6"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:101
+msgid "Custom plugin #7"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:108
+msgid "Custom plugin #8"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:115
+msgid "Custom plugin #9"
+msgstr ""
+
+#: options/services/SummaryService.js:84
+msgid "Damage"
+msgstr ""
+
+#: options/partials/difficulty.html:149
+msgid "Damage multiplier"
+msgstr ""
+
+#: options/app.js:130
+msgid "Damage, controls, AI strength"
+msgstr ""
+
+#: options/partials/calibrate.html:30
+#: options/services/SummaryService.js:25
+msgid "Deadzone"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:38
+msgid "Decrease FOV (pitch)"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:103
+msgid "Decrement boost"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:131
+msgid "Decrement mixture"
+msgstr ""
+
+#: options/partials/calibrate.html:126
+msgid "Default max wheel angle"
+msgstr ""
+
+#: options/partials/display.html:157
+msgid "Default view"
+msgstr ""
+
+#: options/partials/assign.html:11
+msgid "Detect"
+msgstr ""
+
+#: options/app.js:129
+msgid "Difficulty"
+msgstr ""
+
+#: options/app.js:105
+#: options/components/controlsbox/ControlsBox.js:64
+msgid "Display"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:87
+msgid "Display mode"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:80
+msgid "Display vehicle labels"
+msgstr ""
+
+#: options/partials/display.html:200
+msgid "Download custom skins"
+msgstr ""
+
+#: options/partials/network.html:17
+#: options/services/SummaryService.js:76
+msgid "Downstream"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:150
+msgid "Driver hot swap"
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:62
+msgid "Driving"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:150
+#: options/components/controlsbox/partials/features.html:1
+msgid "Driving aids"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:207
+msgid "Driving cameras"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:52
+msgid "EXT cancel"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:24
+msgid "EXT down"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:31
+msgid "EXT left"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:38
+msgid "EXT right"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:45
+msgid "EXT select"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:17
+msgid "EXT up"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:285
+msgid "Eighth gear"
+msgstr ""
+
+#: options/app.js:155
+msgid "Enable or disable plugins. A restart of the game is needed after enabling or disabling a plugin."
+msgstr ""
+
+#: options/services/SummaryService.js:50
+msgid "Engine"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:187
+msgid "Engine Brake Map Down"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:180
+msgid "Engine Brake Map Up"
+msgstr ""
+
+#: options/partials/sound.html:10
+msgid "Engine volume"
+msgstr ""
+
+#: options/partials/display.html:81
+msgid "Environment reflection"
+msgstr ""
+
+#: options/partials/calibrate.html:152
+msgid "Exaggerate yaw"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:157
+msgid "Extra info"
+msgstr ""
+
+#: options/partials/graphics.html:154
+#: options/partials/graphics.html:200
+#: options/partials/graphics.html:246
+#: options/partials/graphics.html:292
+msgid "Eye distance"
+msgstr ""
+
+#: options/services/SummaryService.js:26
+msgid "FFB type"
+msgstr ""
+
+#: options/partials/graphics.html:52
+msgid "FSAA"
+msgstr ""
+
+#: options/partials/graphics.html:84
+msgid "FXAA"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:385
+msgid "Fast Forward"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:355
+msgid "Fast Rewind"
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:63
+msgid "Features"
+msgstr ""
+
+#: options/app.js:142
+msgid "Fidelity, hot laps, length"
+msgstr ""
+
+#: options/app.js:106
+msgid "Field of view, mirrors, units"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:264
+msgid "Fifth gear"
+msgstr ""
+
+#: options/app.js:71
+msgid "Fine-tune calibration for controllers, optimize the sensitivity of steering, throttle, and brakes."
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:236
+msgid "First gear"
+msgstr ""
+
+#: options/partials/calibrate.html:184
+msgid "Force feedback"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:257
+msgid "Fourth gear"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:213
+msgid "Frame rate"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:341
+msgid "Front flap"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:327
+msgid "Front handbrake"
+msgstr ""
+
+#: options/app.js:93
+msgid "Graphics"
+msgstr ""
+
+#: options/partials/display.html:142
+msgid "HUD enabled"
+msgstr ""
+
+#: options/partials/display.html:149
+msgid "HUD selection"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:334
+msgid "Handbrake"
+msgstr ""
+
+#: options/partials/calibrate.html:168
+msgid "Head physics"
+msgstr ""
+
+#: options/partials/calibrate.html:174
+msgid "Head vibration"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:320
+msgid "Headlights"
+msgstr ""
+
+#: options/partials/graphics.html:140
+#: options/partials/graphics.html:186
+#: options/partials/graphics.html:232
+#: options/partials/graphics.html:278
+msgid "Height"
+msgstr ""
+
+#: options/app.js:58
+msgid "Here you'll find all relevant game settings from graphics and video, difficulty levels, controller setup, and more..."
+msgstr ""
+
+#: options/partials/difficulty.html:97
+msgid "Hold brakes"
+msgstr ""
+
+#: options/partials/difficulty.html:104
+msgid "Hold clutch"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:313
+msgid "Horn"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:299
+msgid "Ignition"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:1
+msgid "In car"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:31
+msgid "Increase FOV (pitch)"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:96
+msgid "Increment boost"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:124
+msgid "Increment mixture"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:171
+#: options/partials/replay.html:21
+#: options/services/SummaryService.js:65
+msgid "Instant replay"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:38
+#: options/partials/difficulty.html:39
+msgid "Invulnerability"
+msgstr ""
+
+#: options/partials/display.html:128
+msgid "Kph / mph"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:68
+msgid "Launch control"
+msgstr ""
+
+#: options/partials/display.html:224
+msgid "Lead time"
+msgstr ""
+
+#: options/controllers/GraphicsCtrl.js:102
+msgid "Left"
+msgstr ""
+
+#: options/components/configlist/partials/configlist.html:20
+msgid "Load"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:164
+msgid "Load vehicles"
+msgstr ""
+
+#: options/partials/calibrate.html:158
+msgid "Look ahead"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:453
+msgid "Look behind"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:432
+msgid "Look down"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:411
+msgid "Look left"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:418
+msgid "Look right"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:439
+msgid "Look roll left"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:446
+msgid "Look roll right"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:425
+msgid "Look up"
+msgstr ""
+
+#: options/partials/display.html:88
+msgid "Low speed information screen position"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:173
+msgid "Lower track bar"
+msgstr ""
+
+#: options/partials/calibrate.html:119
+msgid "Max wheel angle mode"
+msgstr ""
+
+#: options/partials/display.html:121
+msgid "Message center"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:122
+msgid "Message history"
+msgstr ""
+
+#: options/partials/calibrate.html:203
+msgid "Minimum steering torque"
+msgstr ""
+
+#: options/partials/display.html:164
+#: options/services/SummaryService.js:104
+msgid "Mirrors"
+msgstr ""
+
+#: options/partials/graphics.html:60
+msgid "MultiView"
+msgstr ""
+
+#: options/partials/graphics.html:120
+msgid "MultiView mode"
+msgstr ""
+
+#: options/partials/graphics.html:130
+msgid "MultiView settings"
+msgstr ""
+
+#: options/app.js:166
+msgid "Multiplayer network settings"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:311
+msgid "Music volume down"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:304
+msgid "Music volume up"
+msgstr ""
+
+#: options/app.js:165
+msgid "Network"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:45
+msgid "Neutral"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:292
+msgid "Ninth gear"
+msgstr ""
+
+#: options/partials/plugins.html:15
+msgid "No plugins found."
+msgstr ""
+
+#: options/partials/sound.html:55
+msgid "Number of effects"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:215
+msgid "Onboard anti-lock brakes backward"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:208
+msgid "Onboard anti-lock brakes forward"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:214
+msgid "Onboard cameras"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:201
+msgid "Onboard traction control backward"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:194
+msgid "Onboard traction control forward"
+msgstr ""
+
+#: options/services/SummaryService.js:52
+#: options/services/SummaryService.js:97
+msgid "Opponent"
+msgstr ""
+
+#: options/partials/display.html:18
+msgid "Opponent detail"
+msgstr ""
+
+#: options/partials/sound.html:31
+msgid "Opponent volume ratio"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:10
+#: options/partials/difficulty.html:11
+msgid "Opposite lock"
+msgstr ""
+
+#: options/partials/sound.html:45
+msgid "Options sound volume"
+msgstr ""
+
+#: options/components/controlsbox/ControlsBox.js:65
+#: options/components/controlsbox/partials/driving.html:59
+msgid "Other"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:157
+msgid "Passenger select"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:178
+msgid "Pause"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:283
+msgid "Pause music"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:177
+msgid "Penalties display"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:94
+msgid "Ping"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:136
+msgid "Pit display"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:115
+msgid "Pit menu decrement value"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:101
+msgid "Pit menu down"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:108
+msgid "Pit menu increment value"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:94
+msgid "Pit menu up"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:362
+msgid "Pit request"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:378
+msgid "Play"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:276
+msgid "Play music"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:290
+msgid "Play next song"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:297
+msgid "Play previous song"
+msgstr ""
+
+#: options/services/SummaryService.js:51
+#: options/services/SummaryService.js:96
+msgid "Player"
+msgstr ""
+
+#: options/partials/display.html:11
+msgid "Player detail"
+msgstr ""
+
+#: options/partials/sound.html:38
+msgid "Player volume ratio"
+msgstr ""
+
+#: options/app.js:153
+#: options/app.js:154
+#: options/components/controlsbox/partials/other.html:1
+msgid "Plugins"
+msgstr ""
+
+#: options/partials/graphics.html:44
+msgid "Post Effects"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:117
+msgid "Power demand"
+msgstr ""
+
+#: options/partials/modal.save_controller_config.html:2
+msgid "Profile name:"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:17
+msgid "Quick chat #1"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:24
+msgid "Quick chat #2"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:31
+msgid "Quick chat #3"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:38
+msgid "Quick chat #4"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:45
+msgid "Quick chat #5"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:52
+msgid "Quick chat #6"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:59
+msgid "Quick chat #7"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:66
+msgid "Quick chat #8"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:73
+msgid "Quick chat #9"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:164
+msgid "Race info"
+msgstr ""
+
+#: options/partials/display.html:67
+msgid "Rain drops"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:166
+msgid "Raise track bar"
+msgstr ""
+
+#: options/partials/calibrate.html:133
+msgid "Range set by vehicle"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:3
+msgid "Realtime chat"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:348
+msgid "Rear flap"
+msgstr ""
+
+#: options/partials/replay.html:15
+msgid "Record hot laps"
+msgstr ""
+
+#: options/partials/replay.html:3
+#: options/services/SummaryService.js:62
+msgid "Record replays"
+msgstr ""
+
+#: options/partials/graphics.html:28
+#: options/services/SummaryService.js:37
+msgid "Refresh Rate"
+msgstr ""
+
+#: options/partials/difficulty.html:111
+msgid "Repeat shifts"
+msgstr ""
+
+#: options/app.js:141
+#: options/components/controlsbox/partials/other.html:346
+msgid "Replay"
+msgstr ""
+
+#: options/partials/replay.html:9
+#: options/services/SummaryService.js:63
+msgid "Replay fidelity"
+msgstr ""
+
+#: options/partials/graphics.html:98
+msgid "Reset"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:3
+msgid "Reset FFB"
+msgstr ""
+
+#: options/partials/graphics.html:20
+#: options/services/SummaryService.js:36
+msgid "Resolution"
+msgstr ""
+
+#: options/app.js:94
+msgid "Resolution, detail level"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:192
+msgid "Restart race"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:229
+msgid "Reverse gear"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:362
+msgid "Rewind"
+msgstr ""
+
+#: options/controllers/GraphicsCtrl.js:104
+msgid "Right"
+msgstr ""
+
+#: options/partials/display.html:74
+msgid "Road reflection"
+msgstr ""
+
+#: options/partials/calibrate.html:113
+msgid "Rotation limit mode"
+msgstr ""
+
+#: options/components/configlist/partials/configlist.html:17
+#: options/partials/modal.save_controller_config.html:1
+msgid "Save"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:199
+msgid "Screenshot"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:243
+msgid "Second gear"
+msgstr ""
+
+#: options/app.js:167
+msgid "Select throughput limits for upstream and downstream, depending on the available connection"
+msgstr ""
+
+#: options/partials/calibrate.html:100
+#: options/partials/calibrate.html:23
+#: options/partials/calibrate.html:54
+#: options/partials/calibrate.html:77
+msgid "Sensitivity"
+msgstr ""
+
+#: options/partials/calibrate.html:48
+#: options/partials/calibrate.html:71
+#: options/partials/calibrate.html:94
+msgid "Set Max"
+msgstr ""
+
+#: options/partials/calibrate.html:13
+msgid "Set max L"
+msgstr ""
+
+#: options/partials/calibrate.html:13
+msgid "Set max R"
+msgstr ""
+
+#: options/partials/calibrate.html:48
+#: options/partials/calibrate.html:71
+#: options/partials/calibrate.html:94
+msgid "Set min"
+msgstr ""
+
+#: options/app.js:83
+msgid "Set up a new controller and assign custom controls to any input."
+msgstr ""
+
+#: options/app.js:56
+msgid "Settings"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:278
+msgid "Seventh gear"
+msgstr ""
+
+#: options/partials/display.html:53
+msgid "Shadow blur"
+msgstr ""
+
+#: options/partials/display.html:46
+msgid "Shadows"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:38
+msgid "Shift down"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:31
+msgid "Shift up"
+msgstr ""
+
+#: options/partials/display.html:102
+msgid "Showroom"
+msgstr ""
+
+#: options/partials/graphics.html:161
+#: options/partials/graphics.html:207
+#: options/partials/graphics.html:253
+#: options/partials/graphics.html:299
+msgid "Side angle"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:271
+msgid "Sixth gear"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:185
+msgid "Skip formation"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:371
+msgid "Slowmotion"
+msgstr ""
+
+#: options/partials/calibrate.html:191
+msgid "Smoothing"
+msgstr ""
+
+#: options/partials/display.html:60
+msgid "Soft particles"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:145
+msgid "Soften front ARB"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:159
+msgid "Soften rear ARB"
+msgstr ""
+
+#: options/app.js:117
+msgid "Sound"
+msgstr ""
+
+#: options/services/SummaryService.js:49
+msgid "Sound effects"
+msgstr ""
+
+#: options/partials/sound.html:3
+msgid "Sound effects volume"
+msgstr ""
+
+#: options/partials/sound.html:76
+msgid "Speaker configuration"
+msgstr ""
+
+#: options/partials/display.html:39
+msgid "Special effects"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:228
+msgid "Spectator cameras"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:75
+msgid "Speed limiter"
+msgstr ""
+
+#: options/partials/calibrate.html:146
+msgid "Speed sensitivity"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:31
+#: options/partials/difficulty.html:32
+msgid "Spin recovery"
+msgstr ""
+
+#: options/partials/sound.html:62
+msgid "Spotter detail"
+msgstr ""
+
+#: options/partials/sound.html:69
+msgid "Spotter lap times"
+msgstr ""
+
+#: options/partials/sound.html:24
+msgid "Spotter volume"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:24
+#: options/partials/difficulty.html:25
+msgid "Stability control"
+msgstr ""
+
+#: options/partials/display.html:192
+#: options/partials/display.html:95
+msgid "Stabilize Horizon"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:129
+msgid "Standard display"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:171
+msgid "Standings display"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:306
+msgid "Starter"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:17
+msgid "Steer left"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:24
+msgid "Steer right"
+msgstr ""
+
+#: options/partials/calibrate.html:112
+#: options/partials/calibrate.html:4
+msgid "Steering"
+msgstr ""
+
+#: options/partials/calibrate.html:208
+msgid "Steering effects strength"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:3
+#: options/partials/difficulty.html:4
+msgid "Steering help"
+msgstr ""
+
+#: options/partials/display.html:171
+#: options/services/SummaryService.js:105
+msgid "Steering wheel"
+msgstr ""
+
+#: options/partials/calibrate.html:139
+msgid "Steering wheel range"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:138
+msgid "Stiffen front ARB"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:152
+msgid "Stiffen rear ARB"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:348
+msgid "Stop"
+msgstr ""
+
+#: options/app.js:57
+msgid "Summary"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:221
+msgid "Swingman cameras"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:249
+msgid "Swingman down"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:256
+msgid "Swingman left"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:284
+msgid "Swingman reset"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:263
+msgid "Swingman right"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:242
+msgid "Swingman up"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:270
+msgid "Swingman zoom in"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:277
+msgid "Swingman zoom out"
+msgstr ""
+
+#: options/services/SummaryService.js:39
+msgid "Sync"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:110
+msgid "Temporary boost"
+msgstr ""
+
+#: options/services/SummaryService.js:98
+msgid "Texture"
+msgstr ""
+
+#: options/partials/display.html:25
+msgid "Texture detail"
+msgstr ""
+
+#: options/partials/display.html:32
+msgid "Texture filter"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:250
+msgid "Third gear"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:3
+#: options/partials/calibrate.html:63
+msgid "Throttle"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:206
+msgid "Time acceleration"
+msgstr ""
+
+#: options/partials/sound.html:17
+msgid "Tire volume"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:143
+msgid "Toggle AI control"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:419
+msgid "Toggle Cursor"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:66
+msgid "Toggle HUD MFD"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:52
+msgid "Toggle HUD stats"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:59
+msgid "Toggle HUD tach"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:10
+msgid "Toggle HWPlugin"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:396
+msgid "Toggle free move"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:45
+msgid "Toggle mirror"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:73
+msgid "Toggle overlays"
+msgstr ""
+
+#: options/app.js:143
+msgid "Toggle replay recording and adjust replay fidelity and length."
+msgstr ""
+
+#: options/app.js:131
+msgid "Toggle various driving aids, and adjust damage sensitivity and AI behaviour."
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:235
+msgid "Tracking cameras"
+msgstr ""
+
+#: options/components/controlsbox/partials/features.html:52
+#: options/partials/difficulty.html:53
+msgid "Traction control"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:61
+msgid "Traction control override"
+msgstr ""
+
+#: options/partials/display.html:216
+msgid "Transparent trainer"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:262
+msgid "Triples/tires"
+msgstr ""
+
+#: options/partials/calibrate.html:185
+msgid "Type"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:417
+msgid "UI"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:248
+msgid "UI mouse click"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:227
+msgid "UI mouse down"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:234
+msgid "UI mouse left"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:241
+msgid "UI mouse right"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:220
+msgid "UI mouse up"
+msgstr ""
+
+#: options/partials/display.html:135
+msgid "Units"
+msgstr ""
+
+#: options/partials/network.html:10
+#: options/services/SummaryService.js:75
+msgid "Upstream"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:318
+msgid "VR Center head position"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:332
+msgid "VR Decrease IPD (World Scale)"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:325
+msgid "VR Increase IPD (World Scale)"
+msgstr ""
+
+#: options/components/controlsbox/partials/other.html:339
+msgid "VR Reset IPD (World Scale)"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:143
+msgid "Vehicle status"
+msgstr ""
+
+#: options/partials/display.html:178
+#: options/services/SummaryService.js:106
+msgid "Vertical FOV"
+msgstr ""
+
+#: options/partials/graphics.html:36
+msgid "Vertical Sync"
+msgstr ""
+
+#: options/partials/graphics.html:4
+msgid "Video Driver"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:186
+msgid "View next vehicle"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:200
+msgid "View original vehicle"
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:193
+msgid "View previous vehicle"
+msgstr ""
+
+#: options/partials/display.html:114
+#: options/services/SummaryService.js:103
+msgid "Visible vehicles"
+msgstr ""
+
+#: options/partials/calibrate.html:167
+msgid "Visual"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:10
+msgid "Voice chat PTT"
+msgstr ""
+
+#: options/app.js:118
+msgid "Volume ratios, spotter, effects"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:87
+msgid "Vote no"
+msgstr ""
+
+#: options/components/controlsbox/partials/chat.html:80
+msgid "Vote yes"
+msgstr ""
+
+#: options/partials/display.html:208
+msgid "Wait for all plugins to load"
+msgstr ""
+
+#: options/partials/graphics.html:76
+msgid "Widescreen HUD"
+msgstr ""
+
+#: options/partials/graphics.html:68
+msgid "Widescreen UI"
+msgstr ""
+
+#: options/partials/graphics.html:132
+#: options/partials/graphics.html:178
+#: options/partials/graphics.html:224
+#: options/partials/graphics.html:270
+msgid "Width"
+msgstr ""
+
+#: options/partials/graphics.html:12
+msgid "Window Mode"
+msgstr ""
+
+#: options/components/controlsbox/partials/driving.html:355
+msgid "Wipers"
+msgstr ""
+
+#: options/controllers/GraphicsCtrl.js:109
+msgid "You can also modify these settings while driving with the hot key assigned to 'triples/tires' in the assign section 'other' controls tab."
+msgstr ""
+
+#: options/components/controlsbox/partials/display.html:403
+msgid "Zero free move"
+msgstr ""
+
+#: options/services/OptionsService.js:159
+msgid "{ PLUGIN_ENABLED, select, true {On} false {Off} other {} } { RESTART_NEEDED, select, true {(after restart)} other {} }"
+msgstr ""

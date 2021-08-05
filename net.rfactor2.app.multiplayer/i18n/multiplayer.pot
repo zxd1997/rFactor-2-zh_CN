@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:11
+msgid "AI drivers"
+msgstr ""
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:8
+msgid "Add favorite"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:29
+msgid "All"
+msgstr ""
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:16
+msgid "Back"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:26
+msgid "Description"
+msgstr ""
+
+#: multiplayer/partials/modal.mode_selection.html:9
+msgid "Drive"
+msgstr ""
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:17
+msgid "Exit game"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:470
+msgid "Favorites"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:28
+msgid "Filtered"
+msgstr ""
+
+#: multiplayer/components/filteroptions/partials/filteroptions.html:2
+msgid "Filters"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:475
+msgid "Friends"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:440
+msgid "Has players"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:442
+msgid "Has same version"
+msgstr ""
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:5
+msgid "Here you can find a list of available rFactor 2 servers."
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:461
+msgid "Internet"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:441
+msgid "Is public"
+msgstr ""
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:3
+msgid "Join"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:466
+msgid "LAN"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:296
+msgid "Multiplayer"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:33
+msgid "N/A"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:3
+msgid "Name"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:443
+msgid "No AI"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:424
+msgid "No servers found"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:439
+msgid "Not full"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:23
+msgid "Not required, server is public."
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:21
+msgid "Password"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:15
+msgid "Ping"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:7
+msgid "Players"
+msgstr ""
+
+#: multiplayer/components/serverbuttons/partials/serverbuttons.html:14
+msgid "Remove favorite"
+msgstr ""
+
+#: multiplayer/components/serverinfo/partials/serverinfo.html:22
+msgid "Required"
+msgstr ""
+
+#: multiplayer/controllers/ModeSelectionModalCtrl.js:18
+msgid "Select mode"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:175
+#: multiplayer/controllers/MultiplayerCtrl.js:66
+msgid "Server"
+msgstr ""
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:17
+msgid "Server list type"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:210
+#: multiplayer/controllers/MultiplayerCtrl.js:229
+#: multiplayer/controllers/MultiplayerCtrl.js:26
+#: multiplayer/controllers/MultiplayerCtrl.js:302
+#: multiplayer/controllers/MultiplayerCtrl.js:386
+#: multiplayer/controllers/MultiplayerCtrl.js:61
+msgid "Servers"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:38
+msgid "Showing all servers"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:37
+msgid "Showing filtered list based on your selections"
+msgstr ""
+
+#: multiplayer/partials/modal.mode_selection.html:12
+msgid "Spectate"
+msgstr ""
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:11
+msgid "Steam is currently in offline mode. You can still see a list of LAN and your favourite servers."
+msgstr ""
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:3
+#: multiplayer/controllers/MultiplayerCtrl.js:235
+#: multiplayer/partials/multiplayer/card.grid.html:5
+#: multiplayer/partials/multiplayer/card.list.html:5
+#: multiplayer/partials/multiplayer/card.thumbnail.html:5
+msgid "Summary"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:409
+msgid "ai"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:419
+msgid "description"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:402
+msgid "name"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:410
+msgid "ping"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:404
+msgid "players"
+msgstr ""
+
+#: multiplayer/components/eventssummary/partials/eventssummary.html:31
+msgid "refresh"
+msgstr ""
+
+#: multiplayer/controllers/MultiplayerCtrl.js:412
+msgid "version"
+msgstr ""

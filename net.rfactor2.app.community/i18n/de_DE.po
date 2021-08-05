@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: community/controllers/CommunityCtrl.js:22
+#: community/partials/community.html:7
+msgid "Chat"
+msgstr "Plausch"
+
+#: community/controllers/CommunityCtrl.js:17
+#: community/partials/community.html:16
+msgid "Forum"
+msgstr "Forum"
+
+#: community/controllers/CommunityCtrl.js:20
+#: community/partials/community.html:13
+msgid "Friends"
+msgstr "Freunde"
+
+#: community/partials/panel.forum.html:2
+msgid "Latest posts"
+msgstr "Neueste Beiträge"
+
+#: community/partials/panel.forum.html:22
+msgid "More"
+msgstr "Mehr"
+
+#: community/controllers/CommunityCtrl.js:21
+#: community/partials/community.html:10
+msgid "Social media"
+msgstr "Sozialen Medien"
+
+#: community/partials/panel.forum.html:1
+msgid "Studio-397 Forum"
+msgstr "Studio-397 Forum"
+
+#~ msgid "Media"
+#~ msgstr "Medien"

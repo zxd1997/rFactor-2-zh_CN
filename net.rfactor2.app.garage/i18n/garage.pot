@@ -1,0 +1,812 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: garage/partials/suspension.html:16
+#: garage/partials/suspension.html:88
+msgid "3rd"
+msgstr ""
+
+#: garage/partials/overwrite_setup.modal.html:5
+msgid "A setup with this name already exists. Do you want to overwrite it?"
+msgstr ""
+
+#: garage/app.js:150
+msgid "ABS, traction control"
+msgstr ""
+
+#: garage/app.js:67
+msgid "Adjust fuel level and your pit strategy."
+msgstr ""
+
+#: garage/app.js:79
+msgid "Adjust gearing and engine settings to get most out of the torque and horsepower on a given track."
+msgstr ""
+
+#: garage/app.js:115
+msgid "Adjust the balance of the car with weight distribution and the feel of the steering with caster and wheel range."
+msgstr ""
+
+#: garage/app.js:139
+msgid "Adjusting the front and rear wing of the car will alter the handling mostly in high-speed corners and will also affect straight line speed."
+msgstr ""
+
+#: garage/partials/chassis.html:50
+msgid "Advanced"
+msgstr ""
+
+#: garage/app.js:137
+#: garage/services/SummaryService.js:52
+#: garage/services/SummaryService.js:75
+msgid "Aerodynamics"
+msgstr ""
+
+#: garage/controllers/LoadSettingsModalCtrl.js:87
+msgid "Are you sure you want to delete {{setup.name}}?"
+msgstr ""
+
+#: garage/controllers/GarageCtrl.js:266
+msgid "Are you sure you want to resume driving car {{driverName}} {{vehicleName}}?"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:35
+msgid "Assign"
+msgstr ""
+
+#: garage/partials/gears.html:108
+msgid "Auto upshift & downshift"
+msgstr ""
+
+#: garage/partials/brakes.html:32
+msgid "Bias"
+msgstr ""
+
+#: garage/app.js:102
+msgid "Brake bias and discs"
+msgstr ""
+
+#: garage/app.js:101
+msgid "Brakes"
+msgstr ""
+
+#: garage/app.js:113
+msgid "Chassis"
+msgstr ""
+
+#: garage/partials/compare-setup-modal.html:1
+#: garage/partials/load-setup-modal.html:43
+msgid "Compare"
+msgstr ""
+
+#: garage/partials/summary.html:16
+msgid "Compared"
+msgstr ""
+
+#: garage/partials/summary.html:26
+msgid "Compared Notes"
+msgstr ""
+
+#: garage/app.js:90
+msgid "Compound, pressure, camber"
+msgstr ""
+
+#: garage/partials/copy-setup-modal.html:1
+#: garage/partials/load-setup-modal.html:54
+msgid "Copy"
+msgstr ""
+
+#: garage/partials/copy-setup-modal.html:1
+msgid "Copy setup to folder"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:19
+msgid "Created"
+msgstr ""
+
+#: garage/partials/summary.html:5
+msgid "Current"
+msgstr ""
+
+#: garage/partials/summary.html:11
+msgid "Default"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:60
+msgid "Defaults"
+msgstr ""
+
+#: garage/controllers/LoadSettingsModalCtrl.js:86
+#: garage/partials/load-setup-modal.html:47
+msgid "Delete"
+msgstr ""
+
+#: garage/controllers/LoadSettingsModalCtrl.js:85
+msgid "Delete setup"
+msgstr ""
+
+#: garage/app.js:162
+msgid "Differential"
+msgstr ""
+
+#: garage/app.js:138
+msgid "Downforce"
+msgstr ""
+
+#: garage/controllers/GarageCtrl.js:205
+msgid "Drive"
+msgstr ""
+
+#: garage/app.js:78
+msgid "Drive ratios"
+msgstr ""
+
+#: garage/app.js:161
+msgid "Drivetrain"
+msgstr ""
+
+#: garage/app.js:151
+msgid "Electronic aids (anti-lock brakes, traction control) reduce mistakes under braking and acceleration. In the case of an experienced driver, they usually don't help significantly with lap time."
+msgstr ""
+
+#: garage/app.js:149
+msgid "Electronics"
+msgstr ""
+
+#: garage/partials/gears.html:80
+#: garage/services/SummaryService.js:41
+msgid "Engine"
+msgstr ""
+
+#: garage/app.js:103
+msgid "Ensuring that your braking system shares the load proportionately will create a fast and stable car on corner entry. Brake bias can usually also be adjusted in-car for optimal braking in different types of corners."
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:75
+#: garage/partials/save-setup-modal.html:42
+msgid "File"
+msgstr ""
+
+#: garage/partials/save-setup-modal.html:14
+msgid "Folder"
+msgstr ""
+
+#: garage/partials/brakes.html:10
+#: garage/partials/suspension.html:14
+#: garage/partials/tires.html:10
+msgid "Front"
+msgstr ""
+
+#: garage/services/GarageService.js:293
+msgid "Front wear"
+msgstr ""
+
+#: garage/app.js:65
+msgid "Fuel"
+msgstr ""
+
+#: garage/app.js:66
+msgid "Fuel and pit strategy"
+msgstr ""
+
+#: garage/app.js:77
+#: garage/partials/gears.html:4
+#: garage/services/SummaryService.js:61
+msgid "Gears"
+msgstr ""
+
+#: garage/partials/brakes.html:11
+#: garage/partials/brakes.html:22
+#: garage/partials/chassis.html:51
+#: garage/partials/suspension.html:15
+#: garage/partials/suspension.html:87
+#: garage/partials/tires.html:11
+#: garage/partials/tires.html:35
+msgid "Left"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:1
+#: garage/partials/load-setup-modal.html:28
+msgid "Load"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:20
+#: garage/partials/load-setup-modal.html:77
+#: garage/partials/save-setup-modal.html:44
+msgid "Modified"
+msgstr ""
+
+#: garage/partials/save-setup-modal.html:19
+msgid "Name"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:15
+#: garage/partials/save-setup-modal.html:28
+#: garage/partials/summary.html:21
+msgid "Notes"
+msgstr ""
+
+#: garage/app.js:55
+msgid "Notes and files"
+msgstr ""
+
+#: garage/partials/brakes.html:41
+msgid "Other"
+msgstr ""
+
+#: garage/partials/overwrite_setup.modal.html:1
+msgid "Overwrite"
+msgstr ""
+
+#: garage/partials/overwrite_setup.modal.html:1
+msgid "Overwrite setup"
+msgstr ""
+
+#: garage/services/GarageService.js:234
+msgid "Pressure"
+msgstr ""
+
+#: garage/partials/summary.html:81
+msgid "Race length:"
+msgstr ""
+
+#: garage/partials/brakes.html:21
+#: garage/partials/suspension.html:86
+#: garage/partials/tires.html:34
+msgid "Rear"
+msgstr ""
+
+#: garage/services/GarageService.js:294
+msgid "Rear wear"
+msgstr ""
+
+#: garage/controllers/GarageCtrl.js:204
+#: garage/controllers/GarageCtrl.js:265
+msgid "Resume"
+msgstr ""
+
+#: garage/controllers/GarageCtrl.js:264
+msgid "Resume driving"
+msgstr ""
+
+#: garage/partials/summary.html:46
+msgid "Revert"
+msgstr ""
+
+#: garage/partials/brakes.html:12
+#: garage/partials/brakes.html:23
+#: garage/partials/chassis.html:52
+#: garage/partials/suspension.html:17
+#: garage/partials/suspension.html:89
+#: garage/partials/tires.html:12
+#: garage/partials/tires.html:36
+msgid "Right"
+msgstr ""
+
+#: garage/partials/save-setup-modal.html:1
+#: garage/partials/save-setup-modal.html:35
+#: garage/partials/summary.html:40
+msgid "Save"
+msgstr ""
+
+#: garage/partials/save-setup-modal.html:1
+msgid "Save setup"
+msgstr ""
+
+#: garage/partials/share-setup-modal.html:16
+msgid "Select all"
+msgstr ""
+
+#: garage/controllers/GarageCtrl.js:208
+msgid "Setup"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:1
+#: garage/partials/summary.html:34
+msgid "Setups"
+msgstr ""
+
+#: garage/partials/share-setup-modal.html:1
+#: garage/partials/summary.html:53
+msgid "Share"
+msgstr ""
+
+#: garage/partials/share-setup-modal.html:1
+msgid "Share current setup"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:72
+msgid "Show Only Relevant"
+msgstr ""
+
+#: garage/app.js:127
+msgid "Springs and anti-roll bars are some of the most important adjustments you can make to affect the handling of the car. With high downforce cars these settings (along with ride height and packers) are also crucial for keeping the chassis at the correct height for maximum downforce through fast corners. Dampers (slow/fast bump/rebound) can be used to fine-tune the handling in corner entries and exits, and also when driving over kerbs and bumps."
+msgstr ""
+
+#: garage/app.js:126
+msgid "Springs, anti-roll bar, ride height"
+msgstr ""
+
+#: garage/partials/load-setup-modal.html:76
+#: garage/partials/save-setup-modal.html:43
+msgid "Status"
+msgstr ""
+
+#: garage/partials/chassis.html:75
+msgid "Steering"
+msgstr ""
+
+#: garage/app.js:54
+msgid "Summary"
+msgstr ""
+
+#: garage/app.js:125
+#: garage/services/SummaryService.js:47
+#: garage/services/SummaryService.js:70
+msgid "Suspension"
+msgstr ""
+
+#: garage/components/symmetrical/partials/symmetrical.html:2
+msgid "Symmetrical"
+msgstr ""
+
+#: garage/services/GarageService.js:256
+msgid "Temperatures"
+msgstr ""
+
+#: garage/app.js:163
+msgid "The differential (power, coast and preload) settings have a significant effect on car handling mostly during the corner entry and exit phases."
+msgstr ""
+
+#: garage/app.js:91
+msgid "Tire compound affects overall grip levels and wear. Adjust pressure and camber to get the most grip out of the tires on qualifying runs, and the best durability on longer stints."
+msgstr ""
+
+#: garage/app.js:89
+#: garage/services/SummaryService.js:56
+#: garage/services/SummaryService.js:65
+msgid "Tires"
+msgstr ""
+
+#: garage/controllers/GarageCtrl.js:207
+msgid "Watch"
+msgstr ""
+
+#: garage/partials/summary.html:85
+msgid "Weather:"
+msgstr ""
+
+#: garage/partials/chassis.html:21
+msgid "Weight"
+msgstr ""
+
+#: garage/app.js:114
+msgid "Weight distribution, caster..."
+msgstr ""
+
+#: garage/services/GarageService.js:245
+msgid "Wheel load"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:137
+msgid "chance of rain"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:181
+msgid "hour"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:184
+msgid "hours"
+msgstr ""
+
+#: garage/services/GarageService.js:263
+#: garage/services/GarageService.js:274
+msgid "in"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:147
+#: garage/controllers/SummaryCtrl.js:154
+msgid "laps"
+msgstr ""
+
+#: garage/services/GarageService.js:268
+msgid "mid"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:189
+msgid "minute"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:192
+#: garage/controllers/SummaryCtrl.js:197
+msgid "minutes"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:159
+msgid "of track laps"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:166
+msgid "of track laps or"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:162
+#: garage/controllers/SummaryCtrl.js:167
+msgid "of track time"
+msgstr ""
+
+#: garage/controllers/SummaryCtrl.js:155
+msgid "or"
+msgstr ""
+
+#: garage/services/GarageService.js:262
+#: garage/services/GarageService.js:275
+msgid "out"
+msgstr ""
+
+#: garage/partials/chassis.html:55
+msgid "{CAPTION, select, s_flip_ups{Flip ups} s_fender_flare{Fender flare} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/aerodynamics.html:3
+#: garage/services/SummaryService.js:53
+msgid "{CAPTION, select, s_front_downforce{Front downforce} s_front_wing{Front wing} s_front_splitter{Front splitter} s_front_air_dam{Front air dam} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/aerodynamics.html:15
+msgid "{CAPTION, select, s_radiator_size{Radiator size} s_grille_tape{Grille tape} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/aerodynamics.html:9
+#: garage/services/SummaryService.js:76
+msgid "{CAPTION, select, s_rear_downforce{Rear downforce} s_rear_wing{Rear wing} s_rear_spoiler{Rear spoiler} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:123
+msgid "{CAPTION, select, undefined{1st gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:7
+msgid "{CAPTION, select, undefined{1st gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:131
+msgid "{CAPTION, select, undefined{2nd gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:13
+msgid "{CAPTION, select, undefined{2nd gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:139
+msgid "{CAPTION, select, undefined{3rd gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:19
+msgid "{CAPTION, select, undefined{3rd gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:147
+msgid "{CAPTION, select, undefined{4th gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:25
+msgid "{CAPTION, select, undefined{4th gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:155
+msgid "{CAPTION, select, undefined{5th gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:31
+msgid "{CAPTION, select, undefined{5th gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:163
+msgid "{CAPTION, select, undefined{6th gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:37
+msgid "{CAPTION, select, undefined{6th gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:171
+msgid "{CAPTION, select, undefined{7th gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:43
+msgid "{CAPTION, select, undefined{7th gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:179
+msgid "{CAPTION, select, undefined{8th gear upshift RPM} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:49
+msgid "{CAPTION, select, undefined{8th gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:55
+msgid "{CAPTION, select, undefined{9th gear} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/electronics.html:9
+msgid "{CAPTION, select, undefined{Anti-lock brakes} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:140
+#: garage/partials/suspension.html:68
+msgid "{CAPTION, select, undefined{Anti-roll Bar} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:111
+msgid "{CAPTION, select, undefined{Auto downshift} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:117
+msgid "{CAPTION, select, undefined{Auto upshift} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:95
+#: garage/services/SummaryService.js:42
+msgid "{CAPTION, select, undefined{Boost mapping} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/brakes.html:34
+msgid "{CAPTION, select, undefined{Brake bias} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/brakes.html:14
+#: garage/partials/brakes.html:25
+msgid "{CAPTION, select, undefined{Brake disc} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/brakes.html:43
+msgid "{CAPTION, select, undefined{Brake duct blanking} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:101
+#: garage/services/SummaryService.js:43
+msgid "{CAPTION, select, undefined{Brake map} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/tires.html:21
+#: garage/partials/tires.html:45
+#: garage/services/SummaryService.js:58
+#: garage/services/SummaryService.js:67
+msgid "{CAPTION, select, undefined{Camber} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:67
+msgid "{CAPTION, select, undefined{Caster} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:113
+msgid "{CAPTION, select, undefined{Chassis adjustment 10} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:116
+msgid "{CAPTION, select, undefined{Chassis adjustment 11} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:119
+msgid "{CAPTION, select, undefined{Chassis adjustment 12} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:86
+msgid "{CAPTION, select, undefined{Chassis adjustment 1} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:89
+msgid "{CAPTION, select, undefined{Chassis adjustment 2} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:92
+msgid "{CAPTION, select, undefined{Chassis adjustment 3} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:95
+msgid "{CAPTION, select, undefined{Chassis adjustment 4} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:98
+msgid "{CAPTION, select, undefined{Chassis adjustment 5} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:101
+msgid "{CAPTION, select, undefined{Chassis adjustment 6} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:104
+msgid "{CAPTION, select, undefined{Chassis adjustment 7} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:107
+msgid "{CAPTION, select, undefined{Chassis adjustment 8} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:110
+msgid "{CAPTION, select, undefined{Chassis adjustment 9} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/drivetrain.html:15
+msgid "{CAPTION, select, undefined{Coast} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/tires.html:27
+#: garage/partials/tires.html:51
+msgid "{CAPTION, select, undefined{Compound} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:89
+msgid "{CAPTION, select, undefined{Engine mixture} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:110
+#: garage/partials/suspension.html:38
+msgid "{CAPTION, select, undefined{Fast bump} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:116
+#: garage/partials/suspension.html:44
+msgid "{CAPTION, select, undefined{Fast rebound} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:67
+#: garage/services/SummaryService.js:62
+msgid "{CAPTION, select, undefined{Final} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:7
+msgid "{CAPTION, select, undefined{Front wheel track} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/brakes.html:55
+msgid "{CAPTION, select, undefined{Handbrake pressure} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:29
+msgid "{CAPTION, select, undefined{Lateral} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/brakes.html:49
+msgid "{CAPTION, select, undefined{Max pedal force} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/fuel.html:10
+msgid "{CAPTION, select, undefined{Number of stops} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/electronics.html:19
+msgid "{CAPTION, select, undefined{Onboard Anti-lock brakes mapping } other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/electronics.html:14
+msgid "{CAPTION, select, undefined{Onboard Traction control mapping } other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:122
+#: garage/partials/suspension.html:50
+msgid "{CAPTION, select, undefined{Packers} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/drivetrain.html:9
+msgid "{CAPTION, select, undefined{Power} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/drivetrain.html:21
+msgid "{CAPTION, select, undefined{Preload} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/drivetrain.html:3
+msgid "{CAPTION, select, undefined{Pump} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:61
+msgid "{CAPTION, select, undefined{Ratio set} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:13
+msgid "{CAPTION, select, undefined{Rear wheel track} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:83
+#: garage/services/SummaryService.js:44
+msgid "{CAPTION, select, undefined{Rev limiter} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/gears.html:73
+msgid "{CAPTION, select, undefined{Reverse} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:128
+#: garage/partials/suspension.html:56
+#: garage/services/SummaryService.js:48
+#: garage/services/SummaryService.js:71
+msgid "{CAPTION, select, undefined{Ride height} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:26
+#: garage/partials/suspension.html:98
+msgid "{CAPTION, select, undefined{Slow bump} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:104
+#: garage/partials/suspension.html:32
+msgid "{CAPTION, select, undefined{Slow rebound} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:20
+#: garage/partials/suspension.html:92
+#: garage/services/SummaryService.js:49
+#: garage/services/SummaryService.js:72
+msgid "{CAPTION, select, undefined{Spring rate} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:134
+#: garage/partials/suspension.html:62
+msgid "{CAPTION, select, undefined{Spring rubber} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/fuel.html:3
+msgid "{CAPTION, select, undefined{Starting fuel} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:78
+msgid "{CAPTION, select, undefined{Steer lock} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/fuel.html:16
+msgid "{CAPTION, select, undefined{Stop 1} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/fuel.html:23
+msgid "{CAPTION, select, undefined{Stop 2} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/fuel.html:30
+msgid "{CAPTION, select, undefined{Stop 3} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/tires.html:15
+#: garage/partials/tires.html:39
+#: garage/services/SummaryService.js:57
+#: garage/services/SummaryService.js:66
+msgid "{CAPTION, select, undefined{Tire pressure} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:145
+#: garage/partials/suspension.html:73
+msgid "{CAPTION, select, undefined{Toe in} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/suspension.html:150
+#: garage/partials/suspension.html:78
+msgid "{CAPTION, select, undefined{Toe offset} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/drivetrain.html:27
+msgid "{CAPTION, select, undefined{Torque split} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:61
+msgid "{CAPTION, select, undefined{Track bar} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/electronics.html:3
+msgid "{CAPTION, select, undefined{Traction control} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:23
+msgid "{CAPTION, select, undefined{Vertical} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:41
+msgid "{CAPTION, select, undefined{Wedge} other{ {CAPTION} } }"
+msgstr ""
+
+#: garage/partials/chassis.html:35
+msgid "{CAPTION, select, undefined{Weight distribution} other{ {CAPTION} } }"
+msgstr ""
