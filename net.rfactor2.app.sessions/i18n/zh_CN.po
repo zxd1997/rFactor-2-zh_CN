@@ -62,7 +62,7 @@ msgstr "全局赛事设置"
 
 #: sessions/partials/race.html:9
 msgid "Grid Position"
-msgstr "旗袍位置"
+msgstr "起步位置"
 
 #: sessions/app.js:55
 msgid "Here you can change the AI settings and select your opponents."
