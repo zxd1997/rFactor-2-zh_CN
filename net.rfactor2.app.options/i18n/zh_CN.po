@@ -1069,7 +1069,7 @@ msgstr "根据可用的网络连接设置上行和下行的吞吐量限制"
 #: options/partials/calibrate.html:100 options/partials/calibrate.html:23
 #: options/partials/calibrate.html:54 options/partials/calibrate.html:77
 msgid "Sensitivity"
-msgstr "敏感度"
+msgstr "灵敏度"
 
 #: options/partials/calibrate.html:48 options/partials/calibrate.html:71
 #: options/partials/calibrate.html:94
@@ -1184,7 +1184,7 @@ msgstr "维修区限速"
 
 #: options/partials/calibrate.html:146
 msgid "Speed sensitivity"
-msgstr "速度敏感度"
+msgstr "速度灵敏度"
 
 #: options/components/controlsbox/partials/features.html:31
 #: options/partials/difficulty.html:32

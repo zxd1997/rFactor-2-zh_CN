@@ -55,7 +55,7 @@ msgstr "离合器"
 
 #: start/partials/panel.watch.html:7
 msgid "Coming soon..."
-msgstr "即将到来。。。"
+msgstr "即将到来..."
 
 #: start/controllers/StartCtrl.js:193 start/partials/start.html:30
 msgid "Community"
@@ -216,11 +216,11 @@ msgstr "载入回放"
 
 #: start/partials/panel.community.html:29
 msgid "Loading forum threads..."
-msgstr "载入论坛帖子中。。。"
+msgstr "载入论坛帖子中..."
 
 #: start/partials/panel.news.html:21
 msgid "Loading news..."
-msgstr "载入新闻中。。。"
+msgstr "载入新闻中..."
 
 #: start/partials/panel.content.html:12
 msgid "Manually install, uninstall and delete packages."

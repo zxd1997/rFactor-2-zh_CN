@@ -33,7 +33,7 @@ msgstr "最新帖子"
 
 #: community/partials/panel.forum.html:28
 msgid "Loading forum threads..."
-msgstr "载入论坛帖子中。。。"
+msgstr "载入论坛帖子中..."
 
 #: community/partials/panel.forum.html:36
 msgid "More"

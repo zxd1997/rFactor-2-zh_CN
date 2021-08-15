@@ -42,7 +42,7 @@ msgstr "项目类型："
 
 #: shop/controllers/PackagesCtrl.js:149
 msgid "Loading packages..."
-msgstr "载入模组包中。。。"
+msgstr "载入模组包中..."
 
 #: shop/controllers/PackagesCtrl.js:125
 msgid "Packages"

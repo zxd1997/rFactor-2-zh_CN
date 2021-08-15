@@ -35,7 +35,7 @@ msgstr "添加处罚"
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:53
 msgid "Adding AI..."
-msgstr "添加AI中。。。"
+msgstr "添加AI中..."
 
 #: framework/components/notification/Notification.js:26
 msgid "Alerts"
@@ -59,7 +59,7 @@ msgstr "踢出"
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:63
 msgid "Booting AI..."
-msgstr "踢出AI中。。。"
+msgstr "踢出AI中..."
 
 #: framework/components/modal/Modal.js:89
 #: framework/components/workshop/partials/modal.store_purchase.html:22
@@ -125,7 +125,7 @@ msgstr "下载并安装服务器所需的内容中。"
 
 #: framework/modals/serverpackagestatus/ServerPackageStatusModalCtrl.js:34
 msgid "Downloading item..."
-msgstr "下载项目中。。。"
+msgstr "下载项目中..."
 
 #: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:111
 #: framework/modals/multiplayeradmin/components/drivers/MultiplayerAdminDrivers.js:119
@@ -170,11 +170,11 @@ msgstr "结束比赛节"
 
 #: framework/modals/serverpackagestatus/ServerPackageStatusModalCtrl.js:40
 msgid "Finishing installing content..."
-msgstr "完成安装内容中。。。"
+msgstr "完成安装内容中..."
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:27
 msgid "Finishing session..."
-msgstr "结束比赛节中。。。"
+msgstr "结束比赛节中..."
 
 #: framework/modals/noopponents/NoOpponentsModalCtrl.js:13
 msgid "Go to opponents"
@@ -182,11 +182,11 @@ msgstr "跳转到对手"
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:30
 msgid "Going to next session..."
-msgstr "跳转下一比赛节中。。。"
+msgstr "跳转下一比赛节中..."
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:40
 msgid "Going to next track..."
-msgstr "跳转下一条赛道中。。。"
+msgstr "跳转下一条赛道中..."
 
 #: framework/components/workshop/controllers/PackageInfoModalCtrl.js:39
 msgid "Idle"
@@ -202,11 +202,11 @@ msgstr "安装内容中"
 
 #: framework/modals/serverpackagestatus/ServerPackageStatusModalCtrl.js:37
 msgid "Installing item..."
-msgstr "安装项目中。。。"
+msgstr "安装项目中..."
 
 #: framework/components/workshop/controllers/PackageInfoModalCtrl.js:40
 msgid "Installing package..."
-msgstr "安装模组包中。。。"
+msgstr "安装模组包中..."
 
 #: framework/services/ReplayLoadingService.js:39
 msgid "Invalid file name."
@@ -222,7 +222,7 @@ msgstr "剩余项目："
 
 #: framework/services/MultiplayerJoinService.js:27
 msgid "Joining server..."
-msgstr "加入服务器中。。。"
+msgstr "加入服务器中..."
 
 #: framework/components/workshop/partials/modal.store_purchase.html:9
 msgid ""
@@ -332,7 +332,7 @@ msgstr "模组包剩余："
 
 #: framework/modals/multiplayeradmin/MultiplayerAdminModalCtrl.js:25
 msgid "Penalize, disqualify..."
-msgstr "处罚，取消资格等。。。"
+msgstr "处罚，取消资格等..."
 
 #: framework/components/topbar/partials/topbar.html:37
 msgid "Player"
@@ -352,7 +352,7 @@ msgstr "请在对手列表中选择至少一个对手。"
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:25
 msgid "Please wait..."
-msgstr "请稍后。。。"
+msgstr "请稍候..."
 
 #: framework/components/topbar/TopBar.js:47
 msgid "Race"
@@ -392,11 +392,11 @@ msgstr "重启周末"
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:34
 msgid "Restarting race..."
-msgstr "正在重启比赛。。。"
+msgstr "正在重启比赛..."
 
 #: framework/modals/singleplayeradmin/SinglePlayerAdminModalCtrl.js:37
 msgid "Restarting weekend..."
-msgstr "正在重启周末。。。"
+msgstr "正在重启周末..."
 
 #: framework/modals/realroad/realroad.modal.html:1
 msgid "Save"
@@ -505,7 +505,7 @@ msgstr "无法载入回放。"
 
 #: framework/components/workshop/controllers/PackageInfoModalCtrl.js:41
 msgid "Uninstalling package..."
-msgstr "卸载模组包中。。。"
+msgstr "卸载模组包中..."
 
 #: framework/components/card/partials/card.html:88
 msgid "Unsubscribe"
@@ -521,7 +521,7 @@ msgstr "更新创意工坊项目"
 
 #: framework/components/workshop/controllers/PackageInfoModalCtrl.js:42
 msgid "Verifying package..."
-msgstr "验证安装包中。。。"
+msgstr "验证安装包中..."
 
 #: framework/components/topbar/TopBar.js:48
 msgid "Watch"
@@ -538,7 +538,7 @@ msgstr "天气"
 
 #: framework/components/workshop/partials/modal.workshop_info.html:5
 msgid "Workshop sync in progress..."
-msgstr "创意工坊同步中。。。"
+msgstr "创意工坊同步中..."
 
 #: framework/components/workshop/partials/modal.store_purchase.html:15
 msgid ""

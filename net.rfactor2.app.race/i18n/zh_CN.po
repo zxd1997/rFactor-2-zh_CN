@@ -106,7 +106,7 @@ msgstr "加入"
 #: race/controllers/SeriesSelectCtrl.js:17
 #: race/controllers/TrackSelectCtrl.js:150
 msgid "Loading series"
-msgstr "载入系列中。。。"
+msgstr "载入系列赛中"
 
 #: race/partials/race.html:177 race/partials/race.html:45
 msgid "More"
