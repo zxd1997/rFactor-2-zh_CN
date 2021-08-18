@@ -262,12 +262,12 @@ msgstr ""
 
 #: event/controllers/EventCtrl.js:621 event/controllers/EventCtrl.js:622
 msgid "pic"
-msgstr "图片"
+msgstr "组内排名"
 
 #: event/controllers/EventCtrl.js:281 event/controllers/EventCtrl.js:289
 #: event/controllers/LapHistoryModalCtrl.js:142
 msgid "pos"
-msgstr "组内排名"
+msgstr "排名"
 
 #: event/controllers/EventCtrl.js:293
 #: event/controllers/LapHistoryModalCtrl.js:139
