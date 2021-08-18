@@ -267,7 +267,7 @@ msgstr "图片"
 #: event/controllers/EventCtrl.js:281 event/controllers/EventCtrl.js:289
 #: event/controllers/LapHistoryModalCtrl.js:142
 msgid "pos"
-msgstr "排名"
+msgstr "组内排名"
 
 #: event/controllers/EventCtrl.js:293
 #: event/controllers/LapHistoryModalCtrl.js:139
